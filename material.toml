@@ -81,6 +81,7 @@ name = "Material Icons"
 
 "svg" = "icons/svg.svg"
 "sass" = "icons/sass.svg"
+"scss" = "icons/sass.svg"
 "sh" = "icons/shell.svg"
 "svelte" = "icons/svelte.svg"
 "scm" = "icons/scheme.svg"
