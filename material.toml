@@ -1,3 +1,112 @@
+# ! Conflicts -> Have been commented
+
+# * Conflicts with folder names -> [icon-theme.foldername]
+# ? Conflicting folder -> "components"
+# folder-react-components
+# folder-vue
+
+# ? Conflicting folder -> "actions"
+# folder-ngrx-actions
+# folder-redux-actions
+
+# ? Conflicting folder -> "reducer"
+# folder-ngrx-reducer
+# folder-redux-reducer
+
+# ? Conflicting folder -> "reducers"
+# folder-ngrx-reducer
+# folder-redux-reducer
+
+# ? Conflicting folder -> "selectors"
+# folder-ngrx-selectors
+# folder-redux-selector
+
+# ? Conflicting folder -> "store"
+# folder-ngrx-store
+# folder-redux-store
+# folder-vuex-store
+
+
+# * Conflicts with file names -> [icon-theme.filename]
+# ? Conflicting file -> "store.js"
+# redux-store
+# vuex-store
+
+# ? Conflicting file -> "store.ts"
+# redux-store
+# vuex-store
+
+
+# * Conflicts with file extensions -> [icon-theme.extension]
+# ? Conflicting extension -> "filter.js"
+# angular-pipe
+# nest-filter
+
+# ? Conflicting extension -> "filter.ts"
+# angular-pipe
+# nest-filter
+
+# ? Conflicting extension -> "guard.js"
+# angular-guard
+# nest-guard
+
+# ? Conflicting extension -> "guard.ts"
+# angular-guard
+# nest-guard
+
+# ? Conflicting extension -> "module.js"
+# angular
+# nest-module
+
+# ? Conflicting extension -> "module.ts"
+# angular
+# nest-module
+
+# ? Conflicting extension -> "pipe.js"
+# angular-pipe
+# nest-pipe
+
+# ? Conflicting extension -> "pipe.ts"
+# angular-pipe
+# nest-pipe
+
+# ? Conflicting extension -> "resolver.js"
+# angular-resolver
+# nest-resolver
+
+# ? Conflicting extension -> "resolver.ts"
+# angular-resolver
+# nest-resolver
+
+# ? Conflicting extension -> "service.js"
+# angular-service
+# nest-service
+
+# ? Conflicting extension -> "service.ts"
+# angular-service
+# nest-service
+
+# ? Conflicting extension -> "actions.ts"
+# ngrx-actions
+# redux-action
+
+# ? Conflicting extension -> "reducer.ts"
+# ngrx-reducer
+# redux-reducer
+
+# ? Conflicting extension -> "selectors.ts"
+# ngrx-selectors
+# redux-selector
+
+# ? Conflicting extension -> "store.js"
+# redux-store
+# vuex-store
+
+# ? Conflicting extension -> "store.ts"
+# redux-store
+# vuex-store
+
+
 [icon-theme]
 name = "Material Icons"
 
@@ -7,108 +116,3642 @@ name = "Material Icons"
 "directory_opened" = "icons/folder.svg"
 
 [icon-theme.foldername]
-".git" = "icons/folder-git.svg"
-".github" = "icons/folder-github.svg"
-".gitlab" = "icons/folder-gitlab.svg"
-".vscode" = "icons/folder-vscode.svg"
-"icons" = "icons/folder-images.svg"
-"images" = "icons/folder-images.svg"
+# folder-admin
+"admin" = "icons/folder-admin.svg"
 
+# folder-android
+"android" = "icons/folder-android.svg"
+
+# folder-angular
+".angular" = "icons/folder-angular.svg"
+
+# folder-animation
+"anim" = "icons/folder-animation.svg"
+"animated" = "icons/folder-animation.svg"
+"animation" = "icons/folder-animation.svg"
+"animations" = "icons/folder-animation.svg"
+"anims" = "icons/folder-animation.svg"
+
+# folder-ansible
+"ansible" = "icons/folder-ansible.svg"
+
+# folder-api
+"api" = "icons/folder-api.svg"
+"apis" = "icons/folder-api.svg"
+"restapi" = "icons/folder-api.svg"
+
+# folder-apollo
+"apollo" = "icons/folder-apollo.svg"
+"apollo-cache" = "icons/folder-apollo.svg"
+"apollo-client" = "icons/folder-apollo.svg"
+"apollo-config" = "icons/folder-apollo.svg"
+
+# folder-app
+"app" = "icons/folder-app.svg"
+"apps" = "icons/folder-app.svg"
+
+# folder-archive
+"arc" = "icons/folder-archive.svg"
+"archival" = "icons/folder-archive.svg"
+"archive" = "icons/folder-archive.svg"
+"archives" = "icons/folder-archive.svg"
+"arcs" = "icons/folder-archive.svg"
+"back-up" = "icons/folder-archive.svg"
+"back-ups" = "icons/folder-archive.svg"
+"backup" = "icons/folder-archive.svg"
+"backups" = "icons/folder-archive.svg"
+"bak" = "icons/folder-archive.svg"
+"baks" = "icons/folder-archive.svg"
+"bkp" = "icons/folder-archive.svg"
+"bkps" = "icons/folder-archive.svg"
+
+# folder-audio
+"aud" = "icons/folder-audio.svg"
+"audio" = "icons/folder-audio.svg"
+"audios" = "icons/folder-audio.svg"
+"auds" = "icons/folder-audio.svg"
+"music" = "icons/folder-audio.svg"
+"sound" = "icons/folder-audio.svg"
+"sounds" = "icons/folder-audio.svg"
+
+# folder-aurelia
+"aurelia_project" = "icons/folder-aurelia.svg"
+
+# folder-aws
+".aws" = "icons/folder-aws.svg"
+"aws" = "icons/folder-aws.svg"
+
+# folder-azure-pipelines
+".azure-pipelines" = "icons/folder-azure-pipelines.svg"
+".azure-pipelines-ci" = "icons/folder-azure-pipelines.svg"
+
+# folder-base
+".base" = "icons/folder-base.svg"
+"base" = "icons/folder-base.svg"
+"bases" = "icons/folder-base.svg"
+
+# folder-batch
+"batch" = "icons/folder-batch.svg"
+"batches" = "icons/folder-batch.svg"
+"batchs" = "icons/folder-batch.svg"
+
+# folder-benchmark
+"benchmark" = "icons/folder-benchmark.svg"
+"benchmarks" = "icons/folder-benchmark.svg"
+"measure" = "icons/folder-benchmark.svg"
+"measurement" = "icons/folder-benchmark.svg"
+"measures" = "icons/folder-benchmark.svg"
+"performance" = "icons/folder-benchmark.svg"
+
+# folder-bower
+"bower_components" = "icons/folder-bower.svg"
+
+# folder-buildkite
+".buildkite" = "icons/folder-buildkite.svg"
+"buildkite" = "icons/folder-buildkite.svg"
+
+# folder-cart
+"cart" = "icons/folder-cart.svg"
+"shop" = "icons/folder-cart.svg"
+"shopping" = "icons/folder-cart.svg"
+"shopping-cart" = "icons/folder-cart.svg"
+
+# folder-ci
+".ci" = "icons/folder-ci.svg"
+"ci" = "icons/folder-ci.svg"
+
+# folder-circleci
+".circleci" = "icons/folder-circleci.svg"
+
+# folder-class
+"class" = "icons/folder-class.svg"
+"classes" = "icons/folder-class.svg"
+"model" = "icons/folder-class.svg"
+"models" = "icons/folder-class.svg"
+"schema" = "icons/folder-class.svg"
+"schemas" = "icons/folder-class.svg"
+
+# folder-client
+"client" = "icons/folder-client.svg"
+"clients" = "icons/folder-client.svg"
+"frontend" = "icons/folder-client.svg"
+"pwa" = "icons/folder-client.svg"
+
+# folder-cluster
+"cluster" = "icons/folder-cluster.svg"
+"clusters" = "icons/folder-cluster.svg"
+
+# folder-cobol
+"cobol" = "icons/folder-cobol.svg"
+
+# folder-command
+"cli" = "icons/folder-command.svg"
+"clis" = "icons/folder-command.svg"
+"cmd" = "icons/folder-command.svg"
+"command" = "icons/folder-command.svg"
+"commands" = "icons/folder-command.svg"
+
+# folder-components
+"components" = "icons/folder-components.svg"
+"fragments" = "icons/folder-components.svg"
+"widget" = "icons/folder-components.svg"
+"widgets" = "icons/folder-components.svg"
+
+# folder-config
+".setting" = "icons/folder-config.svg"
+".settings" = "icons/folder-config.svg"
+"META-INF" = "icons/folder-config.svg"
+"cfg" = "icons/folder-config.svg"
+"cfgs" = "icons/folder-config.svg"
+"conf" = "icons/folder-config.svg"
+"config" = "icons/folder-config.svg"
+"configs" = "icons/folder-config.svg"
+"configuration" = "icons/folder-config.svg"
+"configurations" = "icons/folder-config.svg"
+"confs" = "icons/folder-config.svg"
+"setting" = "icons/folder-config.svg"
+"settings" = "icons/folder-config.svg"
+
+# folder-connection
+"connection" = "icons/folder-connection.svg"
+"connections" = "icons/folder-connection.svg"
+"integration" = "icons/folder-connection.svg"
+"integrations" = "icons/folder-connection.svg"
+
+# folder-constant
+"constant" = "icons/folder-constant.svg"
+"constants" = "icons/folder-constant.svg"
+
+# folder-container
+".devcontainer" = "icons/folder-container.svg"
+"container" = "icons/folder-container.svg"
+"containers" = "icons/folder-container.svg"
+
+# folder-content
+"content" = "icons/folder-content.svg"
+"contents" = "icons/folder-content.svg"
+
+# folder-context
+"context" = "icons/folder-context.svg"
+"contexts" = "icons/folder-context.svg"
+
+# folder-contract
+".contract" = "icons/folder-contract.svg"
+"contract" = "icons/folder-contract.svg"
+"contract-test" = "icons/folder-contract.svg"
+"contract-testing" = "icons/folder-contract.svg"
+"contract-tests" = "icons/folder-contract.svg"
+"contracts" = "icons/folder-contract.svg"
+"pact" = "icons/folder-contract.svg"
+"pacts" = "icons/folder-contract.svg"
+
+# folder-controller
+"controller" = "icons/folder-controller.svg"
+"controllers" = "icons/folder-controller.svg"
+"handler" = "icons/folder-controller.svg"
+"handlers" = "icons/folder-controller.svg"
+"provider" = "icons/folder-controller.svg"
+"providers" = "icons/folder-controller.svg"
+"service" = "icons/folder-controller.svg"
+"services" = "icons/folder-controller.svg"
+
+# folder-core
+"core" = "icons/folder-core.svg"
+
+# folder-coverage
+".nyc-output" = "icons/folder-coverage.svg"
+".nyc_output" = "icons/folder-coverage.svg"
+"__integration-test__" = "icons/folder-coverage.svg"
+"__integration-tests__" = "icons/folder-coverage.svg"
+"coverage" = "icons/folder-coverage.svg"
+"e2e" = "icons/folder-coverage.svg"
+"integration-test" = "icons/folder-coverage.svg"
+"integration-tests" = "icons/folder-coverage.svg"
+"it" = "icons/folder-coverage.svg"
+
+# folder-css
+"css" = "icons/folder-css.svg"
+"style" = "icons/folder-css.svg"
+"styles" = "icons/folder-css.svg"
+"stylesheet" = "icons/folder-css.svg"
+"stylesheets" = "icons/folder-css.svg"
+
+# folder-custom
+"custom" = "icons/folder-custom.svg"
+"customs" = "icons/folder-custom.svg"
+
+# folder-cypress
+".cypress" = "icons/folder-cypress.svg"
+"cypress" = "icons/folder-cypress.svg"
+
+# folder-database
+"_data" = "icons/folder-database.svg"
+"data" = "icons/folder-database.svg"
+"database" = "icons/folder-database.svg"
+"databases" = "icons/folder-database.svg"
+"db" = "icons/folder-database.svg"
+"sql" = "icons/folder-database.svg"
+
+# folder-debug
+"debug" = "icons/folder-debug.svg"
+"debugging" = "icons/folder-debug.svg"
+
+# folder-decorators
+"decorator" = "icons/folder-decorators.svg"
+"decorators" = "icons/folder-decorators.svg"
+
+# folder-delta
+"changes" = "icons/folder-delta.svg"
+"delta" = "icons/folder-delta.svg"
+"deltas" = "icons/folder-delta.svg"
+
+# folder-dist
+"bin" = "icons/folder-dist.svg"
+"build" = "icons/folder-dist.svg"
+"dist" = "icons/folder-dist.svg"
+"out" = "icons/folder-dist.svg"
+"release" = "icons/folder-dist.svg"
+
+# folder-docker
+".docker" = "icons/folder-docker.svg"
+"docker" = "icons/folder-docker.svg"
+"dockerfiles" = "icons/folder-docker.svg"
+
+# folder-docs
+"article" = "icons/folder-docs.svg"
+"articles" = "icons/folder-docs.svg"
+"doc" = "icons/folder-docs.svg"
 "docs" = "icons/folder-docs.svg"
+"document" = "icons/folder-docs.svg"
+"documentation" = "icons/folder-docs.svg"
+"documents" = "icons/folder-docs.svg"
+"post" = "icons/folder-docs.svg"
+"posts" = "icons/folder-docs.svg"
 
-".cargo" = "icons/rust.svg"
+# folder-download
+"download" = "icons/folder-download.svg"
+"downloads" = "icons/folder-download.svg"
+
+# folder-dump
+"dump" = "icons/folder-dump.svg"
+"dumps" = "icons/folder-dump.svg"
+
+# folder-environment
+".env" = "icons/folder-environment.svg"
+".environment" = "icons/folder-environment.svg"
+".venv" = "icons/folder-environment.svg"
+"env" = "icons/folder-environment.svg"
+"environment" = "icons/folder-environment.svg"
+"environments" = "icons/folder-environment.svg"
+"envs" = "icons/folder-environment.svg"
+
+# folder-error
+"err" = "icons/folder-error.svg"
+"error" = "icons/folder-error.svg"
+"errors" = "icons/folder-error.svg"
+
+# folder-event
+"event" = "icons/folder-event.svg"
+"events" = "icons/folder-event.svg"
+
+# folder-examples
+"demo" = "icons/folder-examples.svg"
+"demos" = "icons/folder-examples.svg"
+"example" = "icons/folder-examples.svg"
+"examples" = "icons/folder-examples.svg"
+"sample" = "icons/folder-examples.svg"
+"sample-data" = "icons/folder-examples.svg"
+"samples" = "icons/folder-examples.svg"
+
+# folder-expo
+".expo" = "icons/folder-expo.svg"
+".expo-shared" = "icons/folder-expo.svg"
+
+# folder-export
+"export" = "icons/folder-export.svg"
+"exported" = "icons/folder-export.svg"
+"exports" = "icons/folder-export.svg"
+
+# folder-fastlane
+"fastlane" = "icons/folder-fastlane.svg"
+
+# folder-firebase
+".firebase" = "icons/folder-firebase.svg"
+"firebase" = "icons/folder-firebase.svg"
+
+# folder-flow
+"flow-typed" = "icons/folder-flow.svg"
+
+# folder-font
+"font" = "icons/folder-font.svg"
+"fonts" = "icons/folder-font.svg"
+
+# folder-functions
+"calc" = "icons/folder-functions.svg"
+"calcs" = "icons/folder-functions.svg"
+"calculation" = "icons/folder-functions.svg"
+"calculations" = "icons/folder-functions.svg"
+"func" = "icons/folder-functions.svg"
+"funcs" = "icons/folder-functions.svg"
+"function" = "icons/folder-functions.svg"
+"functions" = "icons/folder-functions.svg"
+"lambda" = "icons/folder-functions.svg"
+"lambdas" = "icons/folder-functions.svg"
+"logic" = "icons/folder-functions.svg"
+"math" = "icons/folder-functions.svg"
+"maths" = "icons/folder-functions.svg"
+
+# folder-generator
+"auto" = "icons/folder-generator.svg"
+"cfn-gen" = "icons/folder-generator.svg"
+"gen" = "icons/folder-generator.svg"
+"generated" = "icons/folder-generator.svg"
+"generator" = "icons/folder-generator.svg"
+"generators" = "icons/folder-generator.svg"
+"gens" = "icons/folder-generator.svg"
+
+# folder-git
+".git" = "icons/folder-git.svg"
+".githooks" = "icons/folder-git.svg"
+".submodules" = "icons/folder-git.svg"
+"githooks" = "icons/folder-git.svg"
+"patches" = "icons/folder-git.svg"
+"submodules" = "icons/folder-git.svg"
+
+# folder-github
+".github" = "icons/folder-github.svg"
+
+# folder-gitlab
+".gitlab" = "icons/folder-gitlab.svg"
+
+# folder-global
+"global" = "icons/folder-global.svg"
+
+# folder-gradle
+".gradle" = "icons/folder-gradle.svg"
+"gradle" = "icons/folder-gradle.svg"
+
+# folder-graphql
+"gql" = "icons/folder-graphql.svg"
+"graphql" = "icons/folder-graphql.svg"
+
+# folder-guard
+"guard" = "icons/folder-guard.svg"
+"guards" = "icons/folder-guard.svg"
+
+# folder-gulp
+"gulp" = "icons/folder-gulp.svg"
+"gulpfile.babel.js" = "icons/folder-gulp.svg"
+"gulpfile.js" = "icons/folder-gulp.svg"
+"gulpfile.mjs" = "icons/folder-gulp.svg"
+"gulpfile.ts" = "icons/folder-gulp.svg"
+
+# folder-helper
+"helper" = "icons/folder-helper.svg"
+"helpers" = "icons/folder-helper.svg"
+
+# folder-home
+".home" = "icons/folder-home.svg"
+".start" = "icons/folder-home.svg"
+"home" = "icons/folder-home.svg"
+"start" = "icons/folder-home.svg"
+
+# folder-hook
+"hook" = "icons/folder-hook.svg"
+"hooks" = "icons/folder-hook.svg"
+"trigger" = "icons/folder-hook.svg"
+"triggers" = "icons/folder-hook.svg"
+
+# folder-husky
+".husky" = "icons/folder-husky.svg"
+"husky" = "icons/folder-husky.svg"
+
+# folder-i18n
+".tx" = "icons/folder-i18n.svg"
+"i18n" = "icons/folder-i18n.svg"
+"internationalization" = "icons/folder-i18n.svg"
+"l10n" = "icons/folder-i18n.svg"
+"lang" = "icons/folder-i18n.svg"
+"langs" = "icons/folder-i18n.svg"
+"language" = "icons/folder-i18n.svg"
+"languages" = "icons/folder-i18n.svg"
+"locale" = "icons/folder-i18n.svg"
+"locales" = "icons/folder-i18n.svg"
+"localization" = "icons/folder-i18n.svg"
+"translate" = "icons/folder-i18n.svg"
+"translation" = "icons/folder-i18n.svg"
+"translations" = "icons/folder-i18n.svg"
+
+# folder-images
+"fig" = "icons/folder-images.svg"
+"figs" = "icons/folder-images.svg"
+"figure" = "icons/folder-images.svg"
+"figures" = "icons/folder-images.svg"
+"ico" = "icons/folder-images.svg"
+"icon" = "icons/folder-images.svg"
+"icons" = "icons/folder-images.svg"
+"icos" = "icons/folder-images.svg"
+"image" = "icons/folder-images.svg"
+"images" = "icons/folder-images.svg"
+"img" = "icons/folder-images.svg"
+"imgs" = "icons/folder-images.svg"
+"pic" = "icons/folder-images.svg"
+"pics" = "icons/folder-images.svg"
+"picture" = "icons/folder-images.svg"
+"pictures" = "icons/folder-images.svg"
+"screengrab" = "icons/folder-images.svg"
+"screengrabs" = "icons/folder-images.svg"
+"screenshot" = "icons/folder-images.svg"
+"screenshots" = "icons/folder-images.svg"
+
+# folder-import
+"import" = "icons/folder-import.svg"
+"imported" = "icons/folder-import.svg"
+"imports" = "icons/folder-import.svg"
+
+# folder-include
+"_includes" = "icons/folder-include.svg"
+"_partials" = "icons/folder-include.svg"
+"inc" = "icons/folder-include.svg"
+"include" = "icons/folder-include.svg"
+"includes" = "icons/folder-include.svg"
+"partials" = "icons/folder-include.svg"
+
+# folder-intellij
+".idea" = "icons/folder-intellij.svg"
+
+# folder-interface
+"interface" = "icons/folder-interface.svg"
+"interfaces" = "icons/folder-interface.svg"
+
+# folder-ios
+"ios" = "icons/folder-ios.svg"
+
+# folder-java
+"java" = "icons/folder-java.svg"
+
+# folder-javascript
+"javascript" = "icons/folder-javascript.svg"
+"javascripts" = "icons/folder-javascript.svg"
+"js" = "icons/folder-javascript.svg"
+
+# folder-jinja
+"j2" = "icons/folder-jinja.svg"
+"jinja" = "icons/folder-jinja.svg"
+"jinja2" = "icons/folder-jinja.svg"
+
+# folder-job
+"job" = "icons/folder-job.svg"
+"jobs" = "icons/folder-job.svg"
+
+# folder-json
+"json" = "icons/folder-json.svg"
+"jsons" = "icons/folder-json.svg"
+
+# folder-keys
+"jwt" = "icons/folder-keys.svg"
+"key" = "icons/folder-keys.svg"
+"keys" = "icons/folder-keys.svg"
+"token" = "icons/folder-keys.svg"
+"tokens" = "icons/folder-keys.svg"
+
+# folder-kubernetes
+".k8s" = "icons/folder-kubernetes.svg"
+".kubernetes" = "icons/folder-kubernetes.svg"
+"k8s" = "icons/folder-kubernetes.svg"
+"kubernetes" = "icons/folder-kubernetes.svg"
+
+# folder-layout
+"_layouts" = "icons/folder-layout.svg"
+"layout" = "icons/folder-layout.svg"
+"layouts" = "icons/folder-layout.svg"
+
+# folder-less
+"less" = "icons/folder-less.svg"
+
+# folder-lib
+"lib" = "icons/folder-lib.svg"
+"libraries" = "icons/folder-lib.svg"
+"library" = "icons/folder-lib.svg"
+"libs" = "icons/folder-lib.svg"
+"third-party" = "icons/folder-lib.svg"
+"vendor" = "icons/folder-lib.svg"
+"vendors" = "icons/folder-lib.svg"
+
+# folder-log
+"log" = "icons/folder-log.svg"
+"logs" = "icons/folder-log.svg"
+
+# folder-lua
+"lua" = "icons/folder-lua.svg"
+
+# folder-mail
+"email" = "icons/folder-mail.svg"
+"emails" = "icons/folder-mail.svg"
+"mail" = "icons/folder-mail.svg"
+"mailers" = "icons/folder-mail.svg"
+"mails" = "icons/folder-mail.svg"
+"smtp" = "icons/folder-mail.svg"
+
+# folder-mappings
+"mapping" = "icons/folder-mappings.svg"
+"mappings" = "icons/folder-mappings.svg"
+
+# folder-markdown
+"markdown" = "icons/folder-markdown.svg"
+"md" = "icons/folder-markdown.svg"
+
+# folder-messages
+"chat" = "icons/folder-messages.svg"
+"chats" = "icons/folder-messages.svg"
+"conversation" = "icons/folder-messages.svg"
+"conversations" = "icons/folder-messages.svg"
+"forum" = "icons/folder-messages.svg"
+"messages" = "icons/folder-messages.svg"
+"messaging" = "icons/folder-messages.svg"
+
+# folder-meta
+"meta" = "icons/folder-meta.svg"
+
+# folder-middleware
+"middleware" = "icons/folder-middleware.svg"
+"middlewares" = "icons/folder-middleware.svg"
+
+# folder-mjml
+"mjml" = "icons/folder-mjml.svg"
+
+# folder-mobile
+"mobile" = "icons/folder-mobile.svg"
+"mobiles" = "icons/folder-mobile.svg"
+"portability" = "icons/folder-mobile.svg"
+"portable" = "icons/folder-mobile.svg"
+
+# folder-mock
+"concept" = "icons/folder-mock.svg"
+"concepts" = "icons/folder-mock.svg"
+"draft" = "icons/folder-mock.svg"
+"drafts" = "icons/folder-mock.svg"
+"fixture" = "icons/folder-mock.svg"
+"fixtures" = "icons/folder-mock.svg"
+"mock" = "icons/folder-mock.svg"
+"mocks" = "icons/folder-mock.svg"
+"sketch" = "icons/folder-mock.svg"
+"sketches" = "icons/folder-mock.svg"
+
+# folder-netlify
+".netlify" = "icons/folder-netlify.svg"
+
+# folder-next
+".next" = "icons/folder-next.svg"
+
+# folder-ngrx-actions
+# "actions" = "icons/folder-ngrx-actions.svg" # ! Conflicting folder
+
+# folder-ngrx-effects
+"effects" = "icons/folder-ngrx-effects.svg"
+
+# folder-ngrx-entities
+"entities" = "icons/folder-ngrx-entities.svg"
+
+# folder-ngrx-reducer
+# "reducer" = "icons/folder-ngrx-reducer.svg" # ! Conflicting folder
+# "reducers" = "icons/folder-ngrx-reducer.svg" # ! Conflicting folder
+
+# folder-ngrx-selectors
+# "selectors" = "icons/folder-ngrx-selectors.svg" # ! Conflicting folder
+
+# folder-ngrx-state
+"state" = "icons/folder-ngrx-state.svg"
+"states" = "icons/folder-ngrx-state.svg"
+
+# folder-ngrx-store
+# "store" = "icons/folder-ngrx-store.svg" # ! Conflicting folder
+
+# folder-node
+"node_modules" = "icons/folder-node.svg"
+
+# folder-nuxt
+".nuxt" = "icons/folder-nuxt.svg"
+"nuxt" = "icons/folder-nuxt.svg"
+
+# folder-other
+"etc" = "icons/folder-other.svg"
+"extra" = "icons/folder-other.svg"
+"extras" = "icons/folder-other.svg"
+"misc" = "icons/folder-other.svg"
+"miscellaneous" = "icons/folder-other.svg"
+"other" = "icons/folder-other.svg"
+"others" = "icons/folder-other.svg"
+
+# folder-packages
+"package" = "icons/folder-packages.svg"
+"packages" = "icons/folder-packages.svg"
+"pkg" = "icons/folder-packages.svg"
+"pkgs" = "icons/folder-packages.svg"
+
+# folder-pdf
+"pdf" = "icons/folder-pdf.svg"
+"pdfs" = "icons/folder-pdf.svg"
+
+# folder-php
+"php" = "icons/folder-php.svg"
+
+# folder-phpmailer
+"phpmailer" = "icons/folder-phpmailer.svg"
+
+# folder-pipe
+"pipe" = "icons/folder-pipe.svg"
+"pipes" = "icons/folder-pipe.svg"
+
+# folder-plugin
+"_plugins" = "icons/folder-plugin.svg"
+"addon" = "icons/folder-plugin.svg"
+"addons" = "icons/folder-plugin.svg"
+"extension" = "icons/folder-plugin.svg"
+"extensions" = "icons/folder-plugin.svg"
+"module" = "icons/folder-plugin.svg"
+"modules" = "icons/folder-plugin.svg"
+"plugin" = "icons/folder-plugin.svg"
+"plugins" = "icons/folder-plugin.svg"
+
+# folder-prisma
+"prisma" = "icons/folder-prisma.svg"
+
+# folder-private
+".private" = "icons/folder-private.svg"
+"private" = "icons/folder-private.svg"
+
+# folder-project
+".project" = "icons/folder-project.svg"
+".projects" = "icons/folder-project.svg"
+"project" = "icons/folder-project.svg"
+"projects" = "icons/folder-project.svg"
+
+# folder-proto
+"proto" = "icons/folder-proto.svg"
+"protobufs" = "icons/folder-proto.svg"
+
+# folder-public
+"browser" = "icons/folder-public.svg"
+"browsers" = "icons/folder-public.svg"
+"public" = "icons/folder-public.svg"
+"site" = "icons/folder-public.svg"
+"web" = "icons/folder-public.svg"
+"website" = "icons/folder-public.svg"
+"www" = "icons/folder-public.svg"
+"wwwroot" = "icons/folder-public.svg"
+
+# folder-python
+".pytest_cache" = "icons/folder-python.svg"
+"__pycache__" = "icons/folder-python.svg"
+"python" = "icons/folder-python.svg"
+
+# folder-quasar
+".quasar" = "icons/folder-quasar.svg"
+
+# folder-queue
+"bull" = "icons/folder-queue.svg"
+"mq" = "icons/folder-queue.svg"
+"queue" = "icons/folder-queue.svg"
+"queues" = "icons/folder-queue.svg"
+
+# folder-react-components
+# "components" = "icons/folder-react-components.svg" # ! Conflicting folder
+"jsx" = "icons/folder-react-components.svg"
+"react" = "icons/folder-react-components.svg"
+"reactjs" = "icons/folder-react-components.svg"
+
+# folder-redux-actions
+# "actions" = "icons/folder-redux-actions.svg" # ! Conflicting folder
+
+# folder-redux-reducer
+# "reducer" = "icons/folder-redux-reducer.svg" # ! Conflicting folder
+# "reducers" = "icons/folder-redux-reducer.svg" # ! Conflicting folder
+
+# folder-redux-selector
+"selector" = "icons/folder-redux-selector.svg"
+# "selectors" = "icons/folder-redux-selector.svg" # ! Conflicting folder
+
+# folder-redux-store
+# "store" = "icons/folder-redux-store.svg" # ! Conflicting folder
+
+# folder-resolver
+"resolver" = "icons/folder-resolver.svg"
+"resolvers" = "icons/folder-resolver.svg"
+
+# folder-resource
+"asset" = "icons/folder-resource.svg"
+"assets" = "icons/folder-resource.svg"
+"report" = "icons/folder-resource.svg"
+"reports" = "icons/folder-resource.svg"
+"res" = "icons/folder-resource.svg"
+"resource" = "icons/folder-resource.svg"
+"resources" = "icons/folder-resource.svg"
+"static" = "icons/folder-resource.svg"
+
+# folder-review
+"review" = "icons/folder-review.svg"
+"reviewed" = "icons/folder-review.svg"
+"reviews" = "icons/folder-review.svg"
+"revisal" = "icons/folder-review.svg"
+"revisals" = "icons/folder-review.svg"
+
+# folder-routes
+"router" = "icons/folder-routes.svg"
+"routers" = "icons/folder-routes.svg"
+"routes" = "icons/folder-routes.svg"
+
+# folder-rules
+"rule" = "icons/folder-rules.svg"
+"rules" = "icons/folder-rules.svg"
+"validation" = "icons/folder-rules.svg"
+"validations" = "icons/folder-rules.svg"
+"validator" = "icons/folder-rules.svg"
+"validators" = "icons/folder-rules.svg"
+
+# folder-sass
+"_sass" = "icons/folder-sass.svg"
+"_scss" = "icons/folder-sass.svg"
+"sass" = "icons/folder-sass.svg"
+"scss" = "icons/folder-sass.svg"
+
+# folder-scala
+"scala" = "icons/folder-scala.svg"
+
+# folder-scripts
+"script" = "icons/folder-scripts.svg"
+"scripts" = "icons/folder-scripts.svg"
+
+# folder-secure
+"auth" = "icons/folder-secure.svg"
+"authentication" = "icons/folder-secure.svg"
+"cert" = "icons/folder-secure.svg"
+"certificate" = "icons/folder-secure.svg"
+"certificates" = "icons/folder-secure.svg"
+"certs" = "icons/folder-secure.svg"
+"secure" = "icons/folder-secure.svg"
+"security" = "icons/folder-secure.svg"
+"ssl" = "icons/folder-secure.svg"
+
+# folder-server
+"backend" = "icons/folder-server.svg"
+"server" = "icons/folder-server.svg"
+"servers" = "icons/folder-server.svg"
+
+# folder-serverless
+".serverless" = "icons/folder-serverless.svg"
+"serverless" = "icons/folder-serverless.svg"
+
+# folder-shader
+"glsl" = "icons/folder-shader.svg"
+"hlsl" = "icons/folder-shader.svg"
+"shader" = "icons/folder-shader.svg"
+"shaders" = "icons/folder-shader.svg"
+
+# folder-shared
+"common" = "icons/folder-shared.svg"
+"shared" = "icons/folder-shared.svg"
+
+# folder-src
+"code" = "icons/folder-src.svg"
+"source" = "icons/folder-src.svg"
+"sources" = "icons/folder-src.svg"
+"src" = "icons/folder-src.svg"
+"srcs" = "icons/folder-src.svg"
+
+# folder-stack
+"stack" = "icons/folder-stack.svg"
+"stacks" = "icons/folder-stack.svg"
+
+# folder-stencil
+".stencil" = "icons/folder-stencil.svg"
+
+# folder-storybook
+".storybook" = "icons/folder-storybook.svg"
+"__stories__" = "icons/folder-storybook.svg"
+"stories" = "icons/folder-storybook.svg"
+"storybook" = "icons/folder-storybook.svg"
+
+# folder-stylus
+"stylus" = "icons/folder-stylus.svg"
+
+# folder-sublime
+"sublime" = "icons/folder-sublime.svg"
+
+# folder-supabase
+".supabase" = "icons/folder-supabase.svg"
+"supabase" = "icons/folder-supabase.svg"
+
+# folder-svelte
+".svelte-kit" = "icons/folder-svelte.svg"
+"svelte" = "icons/folder-svelte.svg"
+
+# folder-svg
+"svg" = "icons/folder-svg.svg"
+"svgs" = "icons/folder-svg.svg"
+
+# folder-syntax
+"spellcheck" = "icons/folder-syntax.svg"
+"syntax" = "icons/folder-syntax.svg"
+"syntaxes" = "icons/folder-syntax.svg"
+
+# folder-target
+"target" = "icons/folder-target.svg"
+
+# folder-tasks
+"tasks" = "icons/folder-tasks.svg"
+"tickets" = "icons/folder-tasks.svg"
+
+# folder-temp
+".cache" = "icons/folder-temp.svg"
+".temp" = "icons/folder-temp.svg"
+".tmp" = "icons/folder-temp.svg"
+"cache" = "icons/folder-temp.svg"
+"cached" = "icons/folder-temp.svg"
+"temp" = "icons/folder-temp.svg"
+"tmp" = "icons/folder-temp.svg"
+
+# folder-template
+"template" = "icons/folder-template.svg"
+"templates" = "icons/folder-template.svg"
+
+# folder-terraform
+".terraform" = "icons/folder-terraform.svg"
+"terraform" = "icons/folder-terraform.svg"
+
+# folder-test
+"__fixtures__" = "icons/folder-test.svg"
+"__mocks__" = "icons/folder-test.svg"
+"__snapshots__" = "icons/folder-test.svg"
+"__test__" = "icons/folder-test.svg"
+"__tests__" = "icons/folder-test.svg"
+"spec" = "icons/folder-test.svg"
+"specs" = "icons/folder-test.svg"
+"test" = "icons/folder-test.svg"
+"testing" = "icons/folder-test.svg"
+"tests" = "icons/folder-test.svg"
+
+# folder-theme
+"color" = "icons/folder-theme.svg"
+"colors" = "icons/folder-theme.svg"
+"design" = "icons/folder-theme.svg"
+"designs" = "icons/folder-theme.svg"
+"theme" = "icons/folder-theme.svg"
+"themes" = "icons/folder-theme.svg"
+
+# folder-tools
+"tools" = "icons/folder-tools.svg"
+
+# folder-typescript
+"@types" = "icons/folder-typescript.svg"
+"ts" = "icons/folder-typescript.svg"
+"types" = "icons/folder-typescript.svg"
+"typescript" = "icons/folder-typescript.svg"
+"typings" = "icons/folder-typescript.svg"
+
+# folder-unity
+"unity" = "icons/folder-unity.svg"
+
+# folder-update
+"update" = "icons/folder-update.svg"
+"updates" = "icons/folder-update.svg"
+"upgrade" = "icons/folder-update.svg"
+"upgrades" = "icons/folder-update.svg"
+
+# folder-upload
+"upload" = "icons/folder-upload.svg"
+"uploads" = "icons/folder-upload.svg"
+
+# folder-utils
+"util" = "icons/folder-utils.svg"
+"utilities" = "icons/folder-utils.svg"
+"utility" = "icons/folder-utils.svg"
+"utils" = "icons/folder-utils.svg"
+
+# folder-vercel
+".now" = "icons/folder-vercel.svg"
+".vercel" = "icons/folder-vercel.svg"
+"now" = "icons/folder-vercel.svg"
+"vercel" = "icons/folder-vercel.svg"
+
+# folder-verdaccio
+".verdaccio" = "icons/folder-verdaccio.svg"
+"verdaccio" = "icons/folder-verdaccio.svg"
+
+# folder-video
+"movie" = "icons/folder-video.svg"
+"movies" = "icons/folder-video.svg"
+"vid" = "icons/folder-video.svg"
+"video" = "icons/folder-video.svg"
+"videos" = "icons/folder-video.svg"
+"vids" = "icons/folder-video.svg"
+
+# folder-views
+"html" = "icons/folder-views.svg"
+"page" = "icons/folder-views.svg"
+"pages" = "icons/folder-views.svg"
+"screen" = "icons/folder-views.svg"
+"screens" = "icons/folder-views.svg"
+"view" = "icons/folder-views.svg"
+"views" = "icons/folder-views.svg"
+
+# folder-vm
+"vm" = "icons/folder-vm.svg"
+"vms" = "icons/folder-vm.svg"
+
+# folder-vscode
+".vscode" = "icons/folder-vscode.svg"
+".vscode-test" = "icons/folder-vscode.svg"
+
+# folder-vue
+"vue" = "icons/folder-vue.svg"
+
+# folder-vue
+# "components" = "icons/folder-vue.svg" # ! Conflicting folder
+
+# folder-vue-directives
+"directives" = "icons/folder-vue-directives.svg"
+
+# folder-vuepress
+".vuepress" = "icons/folder-vuepress.svg"
+
+# folder-vuex-store
+# "store" = "icons/folder-vuex-store.svg" # ! Conflicting folder
+
+# folder-wakatime
+"wakatime" = "icons/folder-wakatime.svg"
+
+# folder-webpack
+".webpack" = "icons/folder-webpack.svg"
+"webpack" = "icons/folder-webpack.svg"
+
+# folder-wordpress
+".wordpress-org" = "icons/folder-wordpress.svg"
+"wp-content" = "icons/folder-wordpress.svg"
+
+# folder-yarn
+".yarn" = "icons/folder-yarn.svg"
+"yarn" = "icons/folder-yarn.svg"
 
 [icon-theme.filename]
+# adonis
+".adonisrc.json" = "icons/adonis.svg"
+"ace" = "icons/adonis.svg"
 
-"CODEOWNERS" = "icons/codeowners.svg"
-"CONTRIBUTING" = "icons/contributing.svg"
-"README.md" = "icons/readme.svg"
-"LICENSE" = "icons/document.svg"
-"LICENCE" = "icons/document.svg"
+# android
+"androidmanifest.xml" = "icons/android.svg"
 
-"Dockerfile" = "icons/docker.svg"
-".gitignore" = "icons/git.svg"
+# angular
+".angular-cli.json" = "icons/angular.svg"
+"angular-cli.json" = "icons/angular.svg"
+"angular.json" = "icons/angular.svg"
+"ng-package.json" = "icons/angular.svg"
+
+# apollo
+"apollo.config.js" = "icons/apollo.svg"
+
+# appveyor
+".appveyor.yml" = "icons/appveyor.svg"
+"appveyor.yml" = "icons/appveyor.svg"
+
+# architecture
+"architecture" = "icons/architecture.svg"
+"architecture.md" = "icons/architecture.svg"
+"architecture.rst" = "icons/architecture.svg"
+"architecture.txt" = "icons/architecture.svg"
+
+# astro
+"astro.config.cjs" = "icons/astro.svg"
+"astro.config.cts" = "icons/astro.svg"
+"astro.config.js" = "icons/astro.svg"
+"astro.config.mjs" = "icons/astro.svg"
+"astro.config.mts" = "icons/astro.svg"
+"astro.config.ts" = "icons/astro.svg"
+
+# astyle
+".astylerc" = "icons/astyle.svg"
+
+# aurelia
+"aurelia.json" = "icons/aurelia.svg"
+
+# authors
+"authors" = "icons/authors.svg"
+"authors.md" = "icons/authors.svg"
+"authors.rst" = "icons/authors.svg"
+"authors.txt" = "icons/authors.svg"
+"contributors" = "icons/authors.svg"
+"contributors.md" = "icons/authors.svg"
+"contributors.rst" = "icons/authors.svg"
+"contributors.txt" = "icons/authors.svg"
+
+# auto
+".autorc" = "icons/auto.svg"
+"auto-config.js" = "icons/auto.svg"
+"auto-config.json" = "icons/auto.svg"
+"auto-config.ts" = "icons/auto.svg"
+"auto-config.yaml" = "icons/auto.svg"
+"auto-config.yml" = "icons/auto.svg"
+"auto.config.js" = "icons/auto.svg"
+"auto.config.ts" = "icons/auto.svg"
+
+# azure-pipelines
+"azure-pipelines.yaml" = "icons/azure-pipelines.svg"
+"azure-pipelines.yml" = "icons/azure-pipelines.svg"
+
+# babel
+".babel-plugin-macrosrc" = "icons/babel.svg"
+".babel-plugin-macrosrc.js" = "icons/babel.svg"
+".babel-plugin-macrosrc.json" = "icons/babel.svg"
+".babel-plugin-macrosrc.yaml" = "icons/babel.svg"
+".babel-plugin-macrosrc.yml" = "icons/babel.svg"
+".babelrc" = "icons/babel.svg"
+".babelrc.cjs" = "icons/babel.svg"
+".babelrc.js" = "icons/babel.svg"
+".babelrc.json" = "icons/babel.svg"
+".babelrc.mjs" = "icons/babel.svg"
+"babel-plugin-macros.config.js" = "icons/babel.svg"
+"babel-transform.js" = "icons/babel.svg"
+"babel.config.cjs" = "icons/babel.svg"
+"babel.config.js" = "icons/babel.svg"
+"babel.config.json" = "icons/babel.svg"
+"babel.config.mjs" = "icons/babel.svg"
+
+# bazel
+".bazelignore" = "icons/bazel.svg"
+".bazelrc" = "icons/bazel.svg"
+".bazelversion" = "icons/bazel.svg"
+
+# bitbucket
+"bitbucket-pipelines.yaml" = "icons/bitbucket.svg"
+"bitbucket-pipelines.yml" = "icons/bitbucket.svg"
+
+# bithound
+".bithoundrc" = "icons/bithound.svg"
+
+# blitz
+".blitz.config.compiled.js" = "icons/blitz.svg"
+"blitz.config.js" = "icons/blitz.svg"
+"blitz.config.ts" = "icons/blitz.svg"
+
+# bower
+".bowerrc" = "icons/bower.svg"
+"bower.json" = "icons/bower.svg"
+
+# browserlist
+".browserslistrc" = "icons/browserlist.svg"
+"browserslist" = "icons/browserlist.svg"
+
+# buck
+".buckconfig" = "icons/buck.svg"
+
+# buildkite
+"buildkite.yaml" = "icons/buildkite.svg"
+"buildkite.yml" = "icons/buildkite.svg"
+
+# cabal
+"cabal.project" = "icons/cabal.svg"
+"cabal.project.freeze" = "icons/cabal.svg"
+"cabal.project.local" = "icons/cabal.svg"
+
+# caddy
+"Caddyfile" = "icons/caddy.svg"
+
+# capacitor
+"capacitor.config.json" = "icons/capacitor.svg"
+"capacitor.config.ts" = "icons/capacitor.svg"
+
+# certificate
+"copying" = "icons/certificate.svg"
+"copying.md" = "icons/certificate.svg"
+"copying.rst" = "icons/certificate.svg"
+"copying.txt" = "icons/certificate.svg"
+"copyright" = "icons/certificate.svg"
+"copyright.md" = "icons/certificate.svg"
+"copyright.rst" = "icons/certificate.svg"
+"copyright.txt" = "icons/certificate.svg"
+"licence" = "icons/certificate.svg"
+"licence-agpl" = "icons/certificate.svg"
+"licence-apache" = "icons/certificate.svg"
+"licence-bsd" = "icons/certificate.svg"
+"licence-gpl" = "icons/certificate.svg"
+"licence-lgpl" = "icons/certificate.svg"
+"licence-mit" = "icons/certificate.svg"
+"licence.md" = "icons/certificate.svg"
+"licence.rst" = "icons/certificate.svg"
+"licence.txt" = "icons/certificate.svg"
+"license" = "icons/certificate.svg"
+"license-agpl" = "icons/certificate.svg"
+"license-apache" = "icons/certificate.svg"
+"license-bsd" = "icons/certificate.svg"
+"license-gpl" = "icons/certificate.svg"
+"license-lgpl" = "icons/certificate.svg"
+"license-mit" = "icons/certificate.svg"
+"license.md" = "icons/certificate.svg"
+"license.rst" = "icons/certificate.svg"
+"license.txt" = "icons/certificate.svg"
+
+# changelog
+"changelog" = "icons/changelog.svg"
+"changelog.md" = "icons/changelog.svg"
+"changelog.rst" = "icons/changelog.svg"
+"changelog.txt" = "icons/changelog.svg"
+"changes" = "icons/changelog.svg"
+"changes.md" = "icons/changelog.svg"
+"changes.rst" = "icons/changelog.svg"
+"changes.txt" = "icons/changelog.svg"
+
+# circleci
+"circle.yml" = "icons/circleci.svg"
+
+# cloudfoundry
+".cfignore" = "icons/cloudfoundry.svg"
+
+# cmake
+"cmakecache.txt" = "icons/cmake.svg"
+"cmakelists.txt" = "icons/cmake.svg"
+
+# code-climate
+".codeclimate.yml" = "icons/code-climate.svg"
+
+# codecov
+".codecov.yml" = "icons/codecov.svg"
+"codecov.yml" = "icons/codecov.svg"
+
+# codeowners
+"codeowners" = "icons/codeowners.svg"
+
+# commitlint
+".commitlint.yaml" = "icons/commitlint.svg"
+".commitlint.yml" = "icons/commitlint.svg"
+".commitlintrc" = "icons/commitlint.svg"
+".commitlintrc.cjs" = "icons/commitlint.svg"
+".commitlintrc.cts" = "icons/commitlint.svg"
+".commitlintrc.js" = "icons/commitlint.svg"
+".commitlintrc.json" = "icons/commitlint.svg"
+".commitlintrc.ts" = "icons/commitlint.svg"
+".commitlintrc.yaml" = "icons/commitlint.svg"
+".commitlintrc.yml" = "icons/commitlint.svg"
+"commitlint.config.cjs" = "icons/commitlint.svg"
+"commitlint.config.cts" = "icons/commitlint.svg"
+"commitlint.config.js" = "icons/commitlint.svg"
+"commitlint.config.ts" = "icons/commitlint.svg"
+
+# conduct
+"code_of_conduct.md" = "icons/conduct.svg"
+"code_of_conduct.txt" = "icons/conduct.svg"
+
+# console
+"commit-msg" = "icons/console.svg"
+"post-merge" = "icons/console.svg"
+"pre-commit" = "icons/console.svg"
+"pre-push" = "icons/console.svg"
+
+# contributing
+"contributing" = "icons/contributing.svg"
+"contributing.md" = "icons/contributing.svg"
+"contributing.rst" = "icons/contributing.svg"
+"contributing.txt" = "icons/contributing.svg"
+
+# craco
+".cracorc" = "icons/craco.svg"
+".cracorc.js" = "icons/craco.svg"
+".cracorc.ts" = "icons/craco.svg"
+"craco.config.cjs" = "icons/craco.svg"
+"craco.config.js" = "icons/craco.svg"
+"craco.config.ts" = "icons/craco.svg"
+
+# credits
+"credits" = "icons/credits.svg"
+"credits.md" = "icons/credits.svg"
+"credits.rst" = "icons/credits.svg"
+"credits.txt" = "icons/credits.svg"
+
+# cypress
+"cypress.config.cjs" = "icons/cypress.svg"
+"cypress.config.js" = "icons/cypress.svg"
+"cypress.config.mjs" = "icons/cypress.svg"
+"cypress.config.ts" = "icons/cypress.svg"
+"cypress.env.json" = "icons/cypress.svg"
+"cypress.json" = "icons/cypress.svg"
+
+# dart
+".pubignore" = "icons/dart.svg"
+
+# dependabot
+"dependabot.yaml" = "icons/dependabot.svg"
+"dependabot.yml" = "icons/dependabot.svg"
+
+# docker
+"compose.yaml" = "icons/docker.svg"
+"compose.yml" = "icons/docker.svg"
+"docker-compose.alpha.yaml" = "icons/docker.svg"
+"docker-compose.alpha.yml" = "icons/docker.svg"
+"docker-compose.beta.yaml" = "icons/docker.svg"
+"docker-compose.beta.yml" = "icons/docker.svg"
+"docker-compose.ci.yaml" = "icons/docker.svg"
+"docker-compose.ci.yml" = "icons/docker.svg"
+"docker-compose.dev.yaml" = "icons/docker.svg"
+"docker-compose.dev.yml" = "icons/docker.svg"
+"docker-compose.development.yaml" = "icons/docker.svg"
+"docker-compose.development.yml" = "icons/docker.svg"
+"docker-compose.local.yaml" = "icons/docker.svg"
+"docker-compose.local.yml" = "icons/docker.svg"
+"docker-compose.override.yaml" = "icons/docker.svg"
+"docker-compose.override.yml" = "icons/docker.svg"
+"docker-compose.prod.yaml" = "icons/docker.svg"
+"docker-compose.prod.yml" = "icons/docker.svg"
+"docker-compose.production.yaml" = "icons/docker.svg"
+"docker-compose.production.yml" = "icons/docker.svg"
+"docker-compose.stage.yaml" = "icons/docker.svg"
+"docker-compose.stage.yml" = "icons/docker.svg"
+"docker-compose.staging.yaml" = "icons/docker.svg"
+"docker-compose.staging.yml" = "icons/docker.svg"
+"docker-compose.test.yaml" = "icons/docker.svg"
+"docker-compose.test.yml" = "icons/docker.svg"
+"docker-compose.testing.yaml" = "icons/docker.svg"
+"docker-compose.testing.yml" = "icons/docker.svg"
+"docker-compose.web.yaml" = "icons/docker.svg"
+"docker-compose.web.yml" = "icons/docker.svg"
+"docker-compose.worker.yaml" = "icons/docker.svg"
+"docker-compose.worker.yml" = "icons/docker.svg"
+"docker-compose.yaml" = "icons/docker.svg"
+"docker-compose.yml" = "icons/docker.svg"
+"dockerfile" = "icons/docker.svg"
+"dockerfile.alpha" = "icons/docker.svg"
+"dockerfile.beta" = "icons/docker.svg"
+"dockerfile.ci" = "icons/docker.svg"
+"dockerfile.dev" = "icons/docker.svg"
+"dockerfile.development" = "icons/docker.svg"
+"dockerfile.local" = "icons/docker.svg"
+"dockerfile.prod" = "icons/docker.svg"
+"dockerfile.production" = "icons/docker.svg"
+"dockerfile.stage" = "icons/docker.svg"
+"dockerfile.staging" = "icons/docker.svg"
+"dockerfile.test" = "icons/docker.svg"
+"dockerfile.testing" = "icons/docker.svg"
+"dockerfile.web" = "icons/docker.svg"
+"dockerfile.worker" = "icons/docker.svg"
+
+# drone
+".drone.yml" = "icons/drone.svg"
+
+# dune
+"dune" = "icons/dune.svg"
+"dune-project" = "icons/dune.svg"
+"dune-workspace" = "icons/dune.svg"
+"dune-workspace.dev" = "icons/dune.svg"
+
+# editorconfig
+".editorconfig" = "icons/editorconfig.svg"
+
+# email
+".mailmap" = "icons/email.svg"
+
+# ember
+".ember-cli" = "icons/ember.svg"
+".ember-cli.js" = "icons/ember.svg"
+"ember-cli-builds.js" = "icons/ember.svg"
+
+# eslint
+".eslintcache" = "icons/eslint.svg"
+".eslintignore" = "icons/eslint.svg"
+".eslintrc" = "icons/eslint.svg"
+".eslintrc-jsdoc.js" = "icons/eslint.svg"
+".eslintrc-md.js" = "icons/eslint.svg"
+".eslintrc.cjs" = "icons/eslint.svg"
+".eslintrc.js" = "icons/eslint.svg"
+".eslintrc.json" = "icons/eslint.svg"
+".eslintrc.yaml" = "icons/eslint.svg"
+".eslintrc.yml" = "icons/eslint.svg"
+"eslint.config.js" = "icons/eslint.svg"
+
+# fastlane
+"appfile" = "icons/fastlane.svg"
+"fastfile" = "icons/fastlane.svg"
+
+# favicon
+"favicon.ico" = "icons/favicon.svg"
+
+# firebase
+".firebaserc" = "icons/firebase.svg"
+"firebase.json" = "icons/firebase.svg"
+"firestore.indexes.json" = "icons/firebase.svg"
+"firestore.rules" = "icons/firebase.svg"
+
+# flow
+".flowconfig" = "icons/flow.svg"
+
+# fusebox
+"fuse.js" = "icons/fusebox.svg"
+
+# gatsby
+"gatsby-browser.js" = "icons/gatsby.svg"
+"gatsby-browser.tsx" = "icons/gatsby.svg"
+"gatsby-config.js" = "icons/gatsby.svg"
+"gatsby-config.ts" = "icons/gatsby.svg"
+"gatsby-node.js" = "icons/gatsby.svg"
+"gatsby-node.ts" = "icons/gatsby.svg"
+"gatsby-ssr.js" = "icons/gatsby.svg"
+"gatsby-ssr.tsx" = "icons/gatsby.svg"
+
+# gcp
+".gcloudignore" = "icons/gcp.svg"
+
+# gemfile
+"gemfile" = "icons/gemfile.svg"
+
+# git
+".git-blame-ignore" = "icons/git.svg"
 ".gitattributes" = "icons/git.svg"
-"Makefile" = "icons/makefile.svg"
-"docs" = "icons/folder-docs.svg"
+".gitconfig" = "icons/git.svg"
+".gitignore" = "icons/git.svg"
+".gitignore-global" = "icons/git.svg"
+".gitignore_global" = "icons/git.svg"
+".gitinclude" = "icons/git.svg"
+".gitkeep" = "icons/git.svg"
+".gitmodules" = "icons/git.svg"
+"git-history" = "icons/git.svg"
 
+# gitpod
+".gitpod.yml" = "icons/gitpod.svg"
+
+# gleam
+"gleam.toml" = "icons/gleam.svg"
+
+# go-mod
 "go.mod" = "icons/go-mod.svg"
+"go.sum" = "icons/go-mod.svg"
+"go.work" = "icons/go-mod.svg"
+"go.work.sum" = "icons/go-mod.svg"
 
-# Rust
-"Cargo.toml" = "icons/rust.svg"
-"Cargo.lock" = "icons/rust.svg"
-".rustfmt.toml" = "icons/rust.svg"
-"rustfmt.toml" = "icons/rust.svg"
+# gradle
+"gradle-wrapper.properties" = "icons/gradle.svg"
+"gradle.properties" = "icons/gradle.svg"
+"gradlew" = "icons/gradle.svg"
+
+# graphcool
+"project.graphcool" = "icons/graphcool.svg"
+
+# graphql
+".graphqlconfig" = "icons/graphql.svg"
+".graphqlrc" = "icons/graphql.svg"
+".graphqlrc.cjs" = "icons/graphql.svg"
+".graphqlrc.js" = "icons/graphql.svg"
+".graphqlrc.json" = "icons/graphql.svg"
+".graphqlrc.toml" = "icons/graphql.svg"
+".graphqlrc.ts" = "icons/graphql.svg"
+".graphqlrc.yaml" = "icons/graphql.svg"
+".graphqlrc.yml" = "icons/graphql.svg"
+"graphql.config.js" = "icons/graphql.svg"
+"graphql.config.json" = "icons/graphql.svg"
+"graphql.config.toml" = "icons/graphql.svg"
+"graphql.config.ts" = "icons/graphql.svg"
+"graphql.config.yaml" = "icons/graphql.svg"
+"graphql.config.yml" = "icons/graphql.svg"
+
+# gridsome
+"gridsome.config.js" = "icons/gridsome.svg"
+"gridsome.server.js" = "icons/gridsome.svg"
+
+# grunt
+"gruntfile.babel.coffee" = "icons/grunt.svg"
+"gruntfile.babel.js" = "icons/grunt.svg"
+"gruntfile.babel.ts" = "icons/grunt.svg"
+"gruntfile.coffee" = "icons/grunt.svg"
+"gruntfile.js" = "icons/grunt.svg"
+"gruntfile.ts" = "icons/grunt.svg"
+
+# gulp
+"gulpfile.babel.js" = "icons/gulp.svg"
+"gulpfile.cts" = "icons/gulp.svg"
+"gulpfile.js" = "icons/gulp.svg"
+"gulpfile.mjs" = "icons/gulp.svg"
+"gulpfile.mts" = "icons/gulp.svg"
+"gulpfile.ts" = "icons/gulp.svg"
+
+# hack
+".hhconfig" = "icons/hack.svg"
+
+# hardhat
+"hardhat.config.js" = "icons/hardhat.svg"
+"hardhat.config.ts" = "icons/hardhat.svg"
+
+# helm
+".helmignore" = "icons/helm.svg"
+
+# heroku
+"procfile" = "icons/heroku.svg"
+"procfile.windows" = "icons/heroku.svg"
+
+# horusec
+"horusec-config.json" = "icons/horusec.svg"
+
+# http
+"CNAME" = "icons/http.svg"
+
+# husky
+".huskyrc" = "icons/husky.svg"
+".huskyrc.js" = "icons/husky.svg"
+".huskyrc.json" = "icons/husky.svg"
+".huskyrc.yaml" = "icons/husky.svg"
+".huskyrc.yml" = "icons/husky.svg"
+"husky.config.js" = "icons/husky.svg"
+
+# ionic
+".io-config.json" = "icons/ionic.svg"
+"ionic.config.json" = "icons/ionic.svg"
+
+# istanbul
+".nycrc" = "icons/istanbul.svg"
+".nycrc.json" = "icons/istanbul.svg"
+
+# jenkins
+"jenkinsfile" = "icons/jenkins.svg"
+
+# jest
+".jestrc" = "icons/jest.svg"
+".jestrc.js" = "icons/jest.svg"
+".jestrc.json" = "icons/jest.svg"
+"jest-e2e.config.cjs" = "icons/jest.svg"
+"jest-e2e.config.cts" = "icons/jest.svg"
+"jest-e2e.config.js" = "icons/jest.svg"
+"jest-e2e.config.json" = "icons/jest.svg"
+"jest-e2e.config.mjs" = "icons/jest.svg"
+"jest-e2e.config.mts" = "icons/jest.svg"
+"jest-e2e.config.ts" = "icons/jest.svg"
+"jest-e2e.json" = "icons/jest.svg"
+"jest-github-actions-reporter.js" = "icons/jest.svg"
+"jest-unit.config.js" = "icons/jest.svg"
+"jest.config.cjs" = "icons/jest.svg"
+"jest.config.cts" = "icons/jest.svg"
+"jest.config.js" = "icons/jest.svg"
+"jest.config.json" = "icons/jest.svg"
+"jest.config.mjs" = "icons/jest.svg"
+"jest.config.mts" = "icons/jest.svg"
+"jest.config.ts" = "icons/jest.svg"
+"jest.e2e.config.cjs" = "icons/jest.svg"
+"jest.e2e.config.cts" = "icons/jest.svg"
+"jest.e2e.config.js" = "icons/jest.svg"
+"jest.e2e.config.json" = "icons/jest.svg"
+"jest.e2e.config.mjs" = "icons/jest.svg"
+"jest.e2e.config.mts" = "icons/jest.svg"
+"jest.e2e.config.ts" = "icons/jest.svg"
+"jest.e2e.json" = "icons/jest.svg"
+"jest.json" = "icons/jest.svg"
+"jest.setup.js" = "icons/jest.svg"
+"jest.setup.ts" = "icons/jest.svg"
+"jest.teardown.js" = "icons/jest.svg"
+
+# jsconfig
+"jsconfig.json" = "icons/jsconfig.svg"
+
+# json
+".esformatter" = "icons/json.svg"
+".jsbeautifyrc" = "icons/json.svg"
+".jscsrc" = "icons/json.svg"
+".jshintrc" = "icons/json.svg"
+".lintstagedrc" = "icons/json.svg"
+"cdp.pid" = "icons/json.svg"
+"composer.lock" = "icons/json.svg"
+
+# karma
+"karma-main.js" = "icons/karma.svg"
+"karma-main.ts" = "icons/karma.svg"
+"karma.conf.coffee" = "icons/karma.svg"
+"karma.conf.js" = "icons/karma.svg"
+"karma.conf.ts" = "icons/karma.svg"
+"karma.config.js" = "icons/karma.svg"
+"karma.config.ts" = "icons/karma.svg"
+
+# key
+".htpasswd" = "icons/key.svg"
+
+# kl
+".kl" = "icons/kl.svg"
+
+# laravel
+"artisan" = "icons/laravel.svg"
+
+# lerna
+"lerna.json" = "icons/lerna.svg"
+
+# lighthouse
+".lighthouserc.js" = "icons/lighthouse.svg"
+".lighthouserc.json" = "icons/lighthouse.svg"
+".lighthouserc.yaml" = "icons/lighthouse.svg"
+".lighthouserc.yml" = "icons/lighthouse.svg"
+"lighthouserc.js" = "icons/lighthouse.svg"
+"lighthouserc.json" = "icons/lighthouse.svg"
+"lighthouserc.yaml" = "icons/lighthouse.svg"
+"lighthouserc.yml" = "icons/lighthouse.svg"
+
+# lock
+"security" = "icons/lock.svg"
+"security.md" = "icons/lock.svg"
+"security.txt" = "icons/lock.svg"
+
+# lua
+".luacheckrc" = "icons/lua.svg"
+
+# makefile
+"gnumakefile" = "icons/makefile.svg"
+"kbuild" = "icons/makefile.svg"
+"makefile" = "icons/makefile.svg"
+
+# maven
+"jvm.config" = "icons/maven.svg"
+"maven.config" = "icons/maven.svg"
+"pom.xml" = "icons/maven.svg"
+
+# meson
+"meson.build" = "icons/meson.svg"
+"meson_options.txt" = "icons/meson.svg"
+
+# minecraft
+".mcattributes" = "icons/minecraft.svg"
+".mcdefinitions" = "icons/minecraft.svg"
+".mcignore" = "icons/minecraft.svg"
+
+# mjml
+".mjmlconfig" = "icons/mjml.svg"
+
+# mocha
+".mocharc.js" = "icons/mocha.svg"
+".mocharc.json" = "icons/mocha.svg"
+".mocharc.jsonc" = "icons/mocha.svg"
+".mocharc.yaml" = "icons/mocha.svg"
+".mocharc.yml" = "icons/mocha.svg"
+"mocha.opts" = "icons/mocha.svg"
+
+# modernizr
+".modernizrrc" = "icons/modernizr.svg"
+".modernizrrc.js" = "icons/modernizr.svg"
+".modernizrrc.json" = "icons/modernizr.svg"
+
+# nano-staged
+".nano-staged.cjs" = "icons/nano-staged.svg"
+".nano-staged.js" = "icons/nano-staged.svg"
+".nano-staged.json" = "icons/nano-staged.svg"
+".nano-staged.mjs" = "icons/nano-staged.svg"
+".nanostagedrc" = "icons/nano-staged.svg"
+"nano-staged.cjs" = "icons/nano-staged.svg"
+"nano-staged.js" = "icons/nano-staged.svg"
+"nano-staged.json" = "icons/nano-staged.svg"
+"nano-staged.mjs" = "icons/nano-staged.svg"
+
+# nest
+".nest-cli.json" = "icons/nest.svg"
+".nestconfig.json" = "icons/nest.svg"
+"nest-cli.json" = "icons/nest.svg"
+"nestconfig.json" = "icons/nest.svg"
+
+# netlify
+"netlify.json" = "icons/netlify.svg"
+"netlify.toml" = "icons/netlify.svg"
+"netlify.yaml" = "icons/netlify.svg"
+"netlify.yml" = "icons/netlify.svg"
+
+# next
+"next.config.js" = "icons/next.svg"
+"next.config.mjs" = "icons/next.svg"
+"next.config.mts" = "icons/next.svg"
+"next.config.ts" = "icons/next.svg"
+
+# nginx
+"nginx.conf" = "icons/nginx.svg"
+
+# ngrx-entity
+".entity" = "icons/ngrx-entity.svg"
+
+# nodejs
+".esmrc" = "icons/nodejs.svg"
+".node-version" = "icons/nodejs.svg"
+".nvmrc" = "icons/nodejs.svg"
+"package-lock.json" = "icons/nodejs.svg"
+"package.json" = "icons/nodejs.svg"
+
+# nodemon
+"nodemon-debug.json" = "icons/nodemon.svg"
+"nodemon.json" = "icons/nodemon.svg"
+
+# npm
+".npmignore" = "icons/npm.svg"
+".npmrc" = "icons/npm.svg"
+
+# nrwl
+".nxignore" = "icons/nrwl.svg"
+"nx.json" = "icons/nrwl.svg"
+
+# nuget
+".nuspec" = "icons/nuget.svg"
+"nuget.config" = "icons/nuget.svg"
+"nuget.exe" = "icons/nuget.svg"
+
+# nuxt
+".nuxtignore" = "icons/nuxt.svg"
+"nuxt.config.js" = "icons/nuxt.svg"
+"nuxt.config.ts" = "icons/nuxt.svg"
+
+# parcel
+".parcelrc" = "icons/parcel.svg"
+
+# percy
+".percy.yml" = "icons/percy.svg"
+
+# php-cs-fixer
+".php-cs-fixer.dist.php" = "icons/php-cs-fixer.svg"
+".php-cs-fixer.php" = "icons/php-cs-fixer.svg"
+".php_cs" = "icons/php-cs-fixer.svg"
+".php_cs.dist" = "icons/php-cs-fixer.svg"
+".php_cs.dist.php" = "icons/php-cs-fixer.svg"
+".php_cs.php" = "icons/php-cs-fixer.svg"
+
+# phpunit
+".phpunit-watcher.yml" = "icons/phpunit.svg"
+".phpunit.result.cache" = "icons/phpunit.svg"
+"phpunit-watcher.yml" = "icons/phpunit.svg"
+"phpunit-watcher.yml.dist" = "icons/phpunit.svg"
+"phpunit.xml" = "icons/phpunit.svg"
+"phpunit.xml.dist" = "icons/phpunit.svg"
+
+# playwright
+"playwright-ct.config.js" = "icons/playwright.svg"
+"playwright-ct.config.mjs" = "icons/playwright.svg"
+"playwright-ct.config.ts" = "icons/playwright.svg"
+"playwright.config.js" = "icons/playwright.svg"
+"playwright.config.mjs" = "icons/playwright.svg"
+"playwright.config.ts" = "icons/playwright.svg"
+
+# plop
+"plopfile.js" = "icons/plop.svg"
+"plopfile.ts" = "icons/plop.svg"
+
+# pnpm
+".pnpmfile.cjs" = "icons/pnpm.svg"
+"pnpm-lock.yaml" = "icons/pnpm.svg"
+"pnpm-workspace.yaml" = "icons/pnpm.svg"
+
+# poetry
+"poetry.lock" = "icons/poetry.svg"
+
+# postcss
+".postcssrc" = "icons/postcss.svg"
+".postcssrc.cjs" = "icons/postcss.svg"
+".postcssrc.cts" = "icons/postcss.svg"
+".postcssrc.js" = "icons/postcss.svg"
+".postcssrc.json" = "icons/postcss.svg"
+".postcssrc.ts" = "icons/postcss.svg"
+".postcssrc.yaml" = "icons/postcss.svg"
+".postcssrc.yml" = "icons/postcss.svg"
+"postcss.config.cjs" = "icons/postcss.svg"
+"postcss.config.cts" = "icons/postcss.svg"
+"postcss.config.js" = "icons/postcss.svg"
+"postcss.config.ts" = "icons/postcss.svg"
+
+# posthtml
+".posthtmlrc" = "icons/posthtml.svg"
+".posthtmlrc.js" = "icons/posthtml.svg"
+".posthtmlrc.json" = "icons/posthtml.svg"
+".posthtmlrc.yml" = "icons/posthtml.svg"
+"posthtml.config.js" = "icons/posthtml.svg"
+
+# prettier
+".prettierignore" = "icons/prettier.svg"
+".prettierrc" = "icons/prettier.svg"
+".prettierrc.cjs" = "icons/prettier.svg"
+".prettierrc.js" = "icons/prettier.svg"
+".prettierrc.json" = "icons/prettier.svg"
+".prettierrc.json5" = "icons/prettier.svg"
+".prettierrc.toml" = "icons/prettier.svg"
+".prettierrc.yaml" = "icons/prettier.svg"
+".prettierrc.yml" = "icons/prettier.svg"
+"prettier.config.cjs" = "icons/prettier.svg"
+"prettier.config.js" = "icons/prettier.svg"
+
+# prisma
+"prisma.yml" = "icons/prisma.svg"
+
+# protractor
+"protractor.conf.coffee" = "icons/protractor.svg"
+"protractor.conf.js" = "icons/protractor.svg"
+"protractor.conf.ts" = "icons/protractor.svg"
+"protractor.config.js" = "icons/protractor.svg"
+"protractor.config.ts" = "icons/protractor.svg"
+
+# pug
+".pug-lintrc" = "icons/pug.svg"
+".pug-lintrc.js" = "icons/pug.svg"
+".pug-lintrc.json" = "icons/pug.svg"
+
+# python-misc
+".pylintrc" = "icons/python-misc.svg"
+".python-version" = "icons/python-misc.svg"
+"manifest.in" = "icons/python-misc.svg"
+"pipfile" = "icons/python-misc.svg"
+"pylintrc" = "icons/python-misc.svg"
+"pyproject.toml" = "icons/python-misc.svg"
+"requirements.txt" = "icons/python-misc.svg"
+
+# quasar
+"quasar.conf.js" = "icons/quasar.svg"
+"quasar.config.js" = "icons/quasar.svg"
+
+# r
+".Rhistory" = "icons/r.svg"
+
+# readme
+"readme" = "icons/readme.svg"
+"readme.md" = "icons/readme.svg"
+"readme.rst" = "icons/readme.svg"
+"readme.txt" = "icons/readme.svg"
+
+# redux-action
+"action.js" = "icons/redux-action.svg"
+"action.ts" = "icons/redux-action.svg"
+"actions.js" = "icons/redux-action.svg"
+"actions.ts" = "icons/redux-action.svg"
+
+# redux-reducer
+"reducer.js" = "icons/redux-reducer.svg"
+"reducer.ts" = "icons/redux-reducer.svg"
+"reducers.js" = "icons/redux-reducer.svg"
+"reducers.ts" = "icons/redux-reducer.svg"
+
+# redux-selector
+"selector.js" = "icons/redux-selector.svg"
+"selector.ts" = "icons/redux-selector.svg"
+"selectors.js" = "icons/redux-selector.svg"
+"selectors.ts" = "icons/redux-selector.svg"
+
+# redux-store
+# "store.js" = "icons/redux-store.svg" # ! Conflicting file
+# "store.ts" = "icons/redux-store.svg" # ! Conflicting file
+
+# remix
+"remix.config.js" = "icons/remix.svg"
+"remix.config.ts" = "icons/remix.svg"
+
+# renovate
+".renovaterc" = "icons/renovate.svg"
+".renovaterc.json" = "icons/renovate.svg"
+"renovate-config.json" = "icons/renovate.svg"
+"renovate.json" = "icons/renovate.svg"
+"renovate.json5" = "icons/renovate.svg"
+
+# replit
+".replit" = "icons/replit.svg"
+
+# roadmap
+"milestones.md" = "icons/roadmap.svg"
+"milestones.txt" = "icons/roadmap.svg"
+"roadmap.md" = "icons/roadmap.svg"
+"roadmap.txt" = "icons/roadmap.svg"
+"timeline.md" = "icons/roadmap.svg"
+"timeline.txt" = "icons/roadmap.svg"
+
+# robots
+"robots.txt" = "icons/robots.svg"
+
+# rollup
+"rollup-config.js" = "icons/rollup.svg"
+"rollup-config.mjs" = "icons/rollup.svg"
+"rollup-config.ts" = "icons/rollup.svg"
+"rollup.config.base.js" = "icons/rollup.svg"
+"rollup.config.base.mjs" = "icons/rollup.svg"
+"rollup.config.base.ts" = "icons/rollup.svg"
+"rollup.config.common.js" = "icons/rollup.svg"
+"rollup.config.common.mjs" = "icons/rollup.svg"
+"rollup.config.common.ts" = "icons/rollup.svg"
+"rollup.config.dev.js" = "icons/rollup.svg"
+"rollup.config.dev.mjs" = "icons/rollup.svg"
+"rollup.config.dev.ts" = "icons/rollup.svg"
+"rollup.config.js" = "icons/rollup.svg"
+"rollup.config.mjs" = "icons/rollup.svg"
+"rollup.config.prod.js" = "icons/rollup.svg"
+"rollup.config.prod.mjs" = "icons/rollup.svg"
+"rollup.config.prod.ts" = "icons/rollup.svg"
+"rollup.config.prod.vendor.js" = "icons/rollup.svg"
+"rollup.config.prod.vendor.mjs" = "icons/rollup.svg"
+"rollup.config.prod.vendor.ts" = "icons/rollup.svg"
+"rollup.config.ts" = "icons/rollup.svg"
+
+# rome
+"rome.json" = "icons/rome.svg"
+
+# routing
+"router.js" = "icons/routing.svg"
+"router.jsx" = "icons/routing.svg"
+"router.ts" = "icons/routing.svg"
+"router.tsx" = "icons/routing.svg"
+"routes.js" = "icons/routing.svg"
+"routes.jsx" = "icons/routing.svg"
+"routes.ts" = "icons/routing.svg"
+"routes.tsx" = "icons/routing.svg"
+
+# rubocop
+".rubocop-todo.yml" = "icons/rubocop.svg"
+".rubocop.yml" = "icons/rubocop.svg"
+".rubocop_todo.yml" = "icons/rubocop.svg"
+
+# semantic-release
+".releaserc" = "icons/semantic-release.svg"
+".releaserc.js" = "icons/semantic-release.svg"
+".releaserc.json" = "icons/semantic-release.svg"
+".releaserc.yaml" = "icons/semantic-release.svg"
+".releaserc.yml" = "icons/semantic-release.svg"
+"release.config.js" = "icons/semantic-release.svg"
+
+# sentry
+".sentryclirc" = "icons/sentry.svg"
+
+# sequelize
+".sequelizerc" = "icons/sequelize.svg"
+
+# serverless
+"serverless.yml" = "icons/serverless.svg"
+
+# settings
+".buildignore" = "icons/settings.svg"
+".clang-format" = "icons/settings.svg"
+".clang-tidy" = "icons/settings.svg"
+".jshintignore" = "icons/settings.svg"
+".mrconfig" = "icons/settings.svg"
+".yardopts" = "icons/settings.svg"
+"manifest.mf" = "icons/settings.svg"
+
+# slug
+".slugignore" = "icons/slug.svg"
+
+# snowpack
+"snowpack.config.cjs" = "icons/snowpack.svg"
+"snowpack.config.cts" = "icons/snowpack.svg"
+"snowpack.config.js" = "icons/snowpack.svg"
+"snowpack.config.json" = "icons/snowpack.svg"
+"snowpack.config.mjs" = "icons/snowpack.svg"
+"snowpack.config.mts" = "icons/snowpack.svg"
+"snowpack.config.ts" = "icons/snowpack.svg"
+"snowpack.deps.json" = "icons/snowpack.svg"
+
+# snyk
+".snyk" = "icons/snyk.svg"
+
+# sonarcloud
+".sonarcloud.properties" = "icons/sonarcloud.svg"
+"sonar-project.properties" = "icons/sonarcloud.svg"
+"sonarcloud.yaml" = "icons/sonarcloud.svg"
+
+# steadybit
+".steadybit.yaml" = "icons/steadybit.svg"
+".steadybit.yml" = "icons/steadybit.svg"
+"steadybit.yaml" = "icons/steadybit.svg"
+"steadybit.yml" = "icons/steadybit.svg"
+
+# stencil
+"stencil.config.js" = "icons/stencil.svg"
+"stencil.config.ts" = "icons/stencil.svg"
+
+# stitches
+"stitches.config.js" = "icons/stitches.svg"
+"stitches.config.ts" = "icons/stitches.svg"
+
+# stryker
+"stryker.conf.js" = "icons/stryker.svg"
+"stryker.conf.json" = "icons/stryker.svg"
+
+# stylelint
+".stylelintcache" = "icons/stylelint.svg"
+".stylelintignore" = "icons/stylelint.svg"
+".stylelintrc" = "icons/stylelint.svg"
+".stylelintrc.cjs" = "icons/stylelint.svg"
+".stylelintrc.js" = "icons/stylelint.svg"
+".stylelintrc.json" = "icons/stylelint.svg"
+".stylelintrc.yaml" = "icons/stylelint.svg"
+".stylelintrc.yml" = "icons/stylelint.svg"
+"stylelint.config.cjs" = "icons/stylelint.svg"
+"stylelint.config.js" = "icons/stylelint.svg"
+
+# supabase
+"supabase.js" = "icons/supabase.svg"
+"supabase.py" = "icons/supabase.svg"
+
+# svelte
+"svelte.config.cjs" = "icons/svelte.svg"
+"svelte.config.js" = "icons/svelte.svg"
+
+# svgo
+"svgo.config.cjs" = "icons/svgo.svg"
+"svgo.config.js" = "icons/svgo.svg"
+"svgo.config.mjs" = "icons/svgo.svg"
+
+# svgr
+".svgrrc" = "icons/svgr.svg"
+".svgrrc.js" = "icons/svgr.svg"
+".svgrrc.json" = "icons/svgr.svg"
+".svgrrc.yaml" = "icons/svgr.svg"
+".svgrrc.yml" = "icons/svgr.svg"
+"svgr.config.js" = "icons/svgr.svg"
+
+# tailwindcss
+"tailwind.config.cjs" = "icons/tailwindcss.svg"
+"tailwind.config.cts" = "icons/tailwindcss.svg"
+"tailwind.config.js" = "icons/tailwindcss.svg"
+"tailwind.config.ts" = "icons/tailwindcss.svg"
+"tailwind.js" = "icons/tailwindcss.svg"
+"tailwind.ts" = "icons/tailwindcss.svg"
+
+# tauri
+"tauri.conf.json" = "icons/tauri.svg"
+"tauri.config.json" = "icons/tauri.svg"
+"tauri.linux.conf.json" = "icons/tauri.svg"
+"tauri.macos.conf.json" = "icons/tauri.svg"
+"tauri.windows.conf.json" = "icons/tauri.svg"
+
+# textlint
+".textlintrc" = "icons/textlint.svg"
+
+# tilt
+"tiltfile" = "icons/tilt.svg"
+
+# tobimake
+".tobimake" = "icons/tobimake.svg"
+
+# travis
+".travis.yml" = "icons/travis.svg"
+
+# tsconfig
+"tsconfig.app.json" = "icons/tsconfig.svg"
+"tsconfig.base.json" = "icons/tsconfig.svg"
+"tsconfig.build.json" = "icons/tsconfig.svg"
+"tsconfig.cjs.json" = "icons/tsconfig.svg"
+"tsconfig.config.json" = "icons/tsconfig.svg"
+"tsconfig.e2e.json" = "icons/tsconfig.svg"
+"tsconfig.editor.json" = "icons/tsconfig.svg"
+"tsconfig.eslint.json" = "icons/tsconfig.svg"
+"tsconfig.esm.json" = "icons/tsconfig.svg"
+"tsconfig.json" = "icons/tsconfig.svg"
+"tsconfig.lib.json" = "icons/tsconfig.svg"
+"tsconfig.lib.prod.json" = "icons/tsconfig.svg"
+"tsconfig.mjs.json" = "icons/tsconfig.svg"
+"tsconfig.node.json" = "icons/tsconfig.svg"
+"tsconfig.spec.json" = "icons/tsconfig.svg"
+"tsconfig.test.json" = "icons/tsconfig.svg"
+"tsconfig.vitest.json" = "icons/tsconfig.svg"
+"tsconfig.web.json" = "icons/tsconfig.svg"
+"tsconfig.webworker.json" = "icons/tsconfig.svg"
+"tsconfig.worker.json" = "icons/tsconfig.svg"
+
+# tune
+".env.alpha" = "icons/tune.svg"
+".env.defaults" = "icons/tune.svg"
+".env.dev" = "icons/tune.svg"
+".env.development" = "icons/tune.svg"
+".env.development.local" = "icons/tune.svg"
+".env.dist" = "icons/tune.svg"
+".env.e2e" = "icons/tune.svg"
+".env.example" = "icons/tune.svg"
+".env.local" = "icons/tune.svg"
+".env.preview" = "icons/tune.svg"
+".env.prod" = "icons/tune.svg"
+".env.production" = "icons/tune.svg"
+".env.production.local" = "icons/tune.svg"
+".env.qa" = "icons/tune.svg"
+".env.qa.local" = "icons/tune.svg"
+".env.sample" = "icons/tune.svg"
+".env.schema" = "icons/tune.svg"
+".env.stage" = "icons/tune.svg"
+".env.staging" = "icons/tune.svg"
+".env.staging.local" = "icons/tune.svg"
+".env.template" = "icons/tune.svg"
+".env.test" = "icons/tune.svg"
+".env.test.local" = "icons/tune.svg"
+".env.testing" = "icons/tune.svg"
+
+# turborepo
+"turbo.json" = "icons/turborepo.svg"
+
+# vagrant
+"vagrantfile" = "icons/vagrant.svg"
+
+# vercel
+".nowignore" = "icons/vercel.svg"
+".vercelignore" = "icons/vercel.svg"
+"now.json" = "icons/vercel.svg"
+"vercel.json" = "icons/vercel.svg"
+
+# verdaccio
+"verdaccio.yml" = "icons/verdaccio.svg"
+
+# vfl
+".vfl" = "icons/vfl.svg"
+
+# vite
+"vite.config.cjs" = "icons/vite.svg"
+"vite.config.cts" = "icons/vite.svg"
+"vite.config.js" = "icons/vite.svg"
+"vite.config.mjs" = "icons/vite.svg"
+"vite.config.mts" = "icons/vite.svg"
+"vite.config.ts" = "icons/vite.svg"
+
+# vlang
+"v.mod" = "icons/vlang.svg"
+"vpkg.json" = "icons/vlang.svg"
+
+# vue-config
+"vetur.config.js" = "icons/vue-config.svg"
+"vetur.config.ts" = "icons/vue-config.svg"
+"volar.config.js" = "icons/vue-config.svg"
+"vue.config.js" = "icons/vue-config.svg"
+"vue.config.ts" = "icons/vue-config.svg"
+
+# vuex-store
+# "store.js" = "icons/vuex-store.svg" # ! Conflicting file
+# "store.ts" = "icons/vuex-store.svg" # ! Conflicting file
+
+# wakatime
+".wakatime-project" = "icons/wakatime.svg"
+
+# wallaby
+"wallaby.conf.js" = "icons/wallaby.svg"
+"wallaby.js" = "icons/wallaby.svg"
+
+# watchman
+".watchmanconfig" = "icons/watchman.svg"
+
+# webhint
+".hintrc" = "icons/webhint.svg"
+
+# webpack
+"webpack.base.cjs" = "icons/webpack.svg"
+"webpack.base.cts" = "icons/webpack.svg"
+"webpack.base.js" = "icons/webpack.svg"
+"webpack.base.mjs" = "icons/webpack.svg"
+"webpack.base.mts" = "icons/webpack.svg"
+"webpack.base.ts" = "icons/webpack.svg"
+"webpack.cjs" = "icons/webpack.svg"
+"webpack.client.cjs" = "icons/webpack.svg"
+"webpack.client.cts" = "icons/webpack.svg"
+"webpack.client.js" = "icons/webpack.svg"
+"webpack.client.mjs" = "icons/webpack.svg"
+"webpack.client.mts" = "icons/webpack.svg"
+"webpack.client.ts" = "icons/webpack.svg"
+"webpack.common.cjs" = "icons/webpack.svg"
+"webpack.common.cts" = "icons/webpack.svg"
+"webpack.common.js" = "icons/webpack.svg"
+"webpack.common.mjs" = "icons/webpack.svg"
+"webpack.common.mts" = "icons/webpack.svg"
+"webpack.common.ts" = "icons/webpack.svg"
+"webpack.config.babel.js" = "icons/webpack.svg"
+"webpack.config.babel.ts" = "icons/webpack.svg"
+"webpack.config.base.babel.js" = "icons/webpack.svg"
+"webpack.config.base.babel.ts" = "icons/webpack.svg"
+"webpack.config.base.cjs" = "icons/webpack.svg"
+"webpack.config.base.cts" = "icons/webpack.svg"
+"webpack.config.base.js" = "icons/webpack.svg"
+"webpack.config.base.mjs" = "icons/webpack.svg"
+"webpack.config.base.mts" = "icons/webpack.svg"
+"webpack.config.base.ts" = "icons/webpack.svg"
+"webpack.config.cjs" = "icons/webpack.svg"
+"webpack.config.client.cjs" = "icons/webpack.svg"
+"webpack.config.client.cts" = "icons/webpack.svg"
+"webpack.config.client.js" = "icons/webpack.svg"
+"webpack.config.client.mjs" = "icons/webpack.svg"
+"webpack.config.client.mts" = "icons/webpack.svg"
+"webpack.config.client.ts" = "icons/webpack.svg"
+"webpack.config.coffee" = "icons/webpack.svg"
+"webpack.config.common.babel.js" = "icons/webpack.svg"
+"webpack.config.common.babel.ts" = "icons/webpack.svg"
+"webpack.config.common.cjs" = "icons/webpack.svg"
+"webpack.config.common.cts" = "icons/webpack.svg"
+"webpack.config.common.js" = "icons/webpack.svg"
+"webpack.config.common.mjs" = "icons/webpack.svg"
+"webpack.config.common.mts" = "icons/webpack.svg"
+"webpack.config.common.ts" = "icons/webpack.svg"
+"webpack.config.cts" = "icons/webpack.svg"
+"webpack.config.dev.babel.js" = "icons/webpack.svg"
+"webpack.config.dev.babel.ts" = "icons/webpack.svg"
+"webpack.config.dev.cjs" = "icons/webpack.svg"
+"webpack.config.dev.cts" = "icons/webpack.svg"
+"webpack.config.dev.js" = "icons/webpack.svg"
+"webpack.config.dev.mjs" = "icons/webpack.svg"
+"webpack.config.dev.mts" = "icons/webpack.svg"
+"webpack.config.dev.ts" = "icons/webpack.svg"
+"webpack.config.js" = "icons/webpack.svg"
+"webpack.config.mjs" = "icons/webpack.svg"
+"webpack.config.mts" = "icons/webpack.svg"
+"webpack.config.prod.babel.cjs" = "icons/webpack.svg"
+"webpack.config.prod.babel.cts" = "icons/webpack.svg"
+"webpack.config.prod.babel.js" = "icons/webpack.svg"
+"webpack.config.prod.babel.mjs" = "icons/webpack.svg"
+"webpack.config.prod.babel.mts" = "icons/webpack.svg"
+"webpack.config.prod.babel.ts" = "icons/webpack.svg"
+"webpack.config.prod.cjs" = "icons/webpack.svg"
+"webpack.config.prod.cts" = "icons/webpack.svg"
+"webpack.config.prod.js" = "icons/webpack.svg"
+"webpack.config.prod.mjs" = "icons/webpack.svg"
+"webpack.config.prod.mts" = "icons/webpack.svg"
+"webpack.config.prod.ts" = "icons/webpack.svg"
+"webpack.config.production.babel.js" = "icons/webpack.svg"
+"webpack.config.production.babel.ts" = "icons/webpack.svg"
+"webpack.config.production.cjs" = "icons/webpack.svg"
+"webpack.config.production.cts" = "icons/webpack.svg"
+"webpack.config.production.js" = "icons/webpack.svg"
+"webpack.config.production.mjs" = "icons/webpack.svg"
+"webpack.config.production.mts" = "icons/webpack.svg"
+"webpack.config.production.ts" = "icons/webpack.svg"
+"webpack.config.server.cjs" = "icons/webpack.svg"
+"webpack.config.server.cts" = "icons/webpack.svg"
+"webpack.config.server.js" = "icons/webpack.svg"
+"webpack.config.server.mjs" = "icons/webpack.svg"
+"webpack.config.server.mts" = "icons/webpack.svg"
+"webpack.config.server.ts" = "icons/webpack.svg"
+"webpack.config.staging.babel.js" = "icons/webpack.svg"
+"webpack.config.staging.babel.ts" = "icons/webpack.svg"
+"webpack.config.staging.cjs" = "icons/webpack.svg"
+"webpack.config.staging.cts" = "icons/webpack.svg"
+"webpack.config.staging.js" = "icons/webpack.svg"
+"webpack.config.staging.mjs" = "icons/webpack.svg"
+"webpack.config.staging.mts" = "icons/webpack.svg"
+"webpack.config.staging.ts" = "icons/webpack.svg"
+"webpack.config.test.cjs" = "icons/webpack.svg"
+"webpack.config.test.cts" = "icons/webpack.svg"
+"webpack.config.test.js" = "icons/webpack.svg"
+"webpack.config.test.mjs" = "icons/webpack.svg"
+"webpack.config.test.mts" = "icons/webpack.svg"
+"webpack.config.test.ts" = "icons/webpack.svg"
+"webpack.config.ts" = "icons/webpack.svg"
+"webpack.config.vendor.cjs" = "icons/webpack.svg"
+"webpack.config.vendor.cts" = "icons/webpack.svg"
+"webpack.config.vendor.js" = "icons/webpack.svg"
+"webpack.config.vendor.mjs" = "icons/webpack.svg"
+"webpack.config.vendor.mts" = "icons/webpack.svg"
+"webpack.config.vendor.production.cjs" = "icons/webpack.svg"
+"webpack.config.vendor.production.cts" = "icons/webpack.svg"
+"webpack.config.vendor.production.js" = "icons/webpack.svg"
+"webpack.config.vendor.production.mjs" = "icons/webpack.svg"
+"webpack.config.vendor.production.mts" = "icons/webpack.svg"
+"webpack.config.vendor.production.ts" = "icons/webpack.svg"
+"webpack.config.vendor.ts" = "icons/webpack.svg"
+"webpack.cts" = "icons/webpack.svg"
+"webpack.dev.cjs" = "icons/webpack.svg"
+"webpack.dev.cts" = "icons/webpack.svg"
+"webpack.dev.js" = "icons/webpack.svg"
+"webpack.dev.mjs" = "icons/webpack.svg"
+"webpack.dev.mts" = "icons/webpack.svg"
+"webpack.dev.ts" = "icons/webpack.svg"
+"webpack.development.cjs" = "icons/webpack.svg"
+"webpack.development.cts" = "icons/webpack.svg"
+"webpack.development.js" = "icons/webpack.svg"
+"webpack.development.mjs" = "icons/webpack.svg"
+"webpack.development.mts" = "icons/webpack.svg"
+"webpack.development.ts" = "icons/webpack.svg"
+"webpack.dist.cjs" = "icons/webpack.svg"
+"webpack.dist.cts" = "icons/webpack.svg"
+"webpack.dist.js" = "icons/webpack.svg"
+"webpack.dist.mjs" = "icons/webpack.svg"
+"webpack.dist.mts" = "icons/webpack.svg"
+"webpack.dist.ts" = "icons/webpack.svg"
+"webpack.js" = "icons/webpack.svg"
+"webpack.mix.cjs" = "icons/webpack.svg"
+"webpack.mix.cts" = "icons/webpack.svg"
+"webpack.mix.js" = "icons/webpack.svg"
+"webpack.mix.mjs" = "icons/webpack.svg"
+"webpack.mix.mts" = "icons/webpack.svg"
+"webpack.mix.ts" = "icons/webpack.svg"
+"webpack.mjs" = "icons/webpack.svg"
+"webpack.mts" = "icons/webpack.svg"
+"webpack.prod.cjs" = "icons/webpack.svg"
+"webpack.prod.config.cjs" = "icons/webpack.svg"
+"webpack.prod.config.cts" = "icons/webpack.svg"
+"webpack.prod.config.js" = "icons/webpack.svg"
+"webpack.prod.config.mjs" = "icons/webpack.svg"
+"webpack.prod.config.mts" = "icons/webpack.svg"
+"webpack.prod.config.ts" = "icons/webpack.svg"
+"webpack.prod.cts" = "icons/webpack.svg"
+"webpack.prod.js" = "icons/webpack.svg"
+"webpack.prod.mjs" = "icons/webpack.svg"
+"webpack.prod.mts" = "icons/webpack.svg"
+"webpack.prod.ts" = "icons/webpack.svg"
+"webpack.production.cjs" = "icons/webpack.svg"
+"webpack.production.cts" = "icons/webpack.svg"
+"webpack.production.js" = "icons/webpack.svg"
+"webpack.production.mjs" = "icons/webpack.svg"
+"webpack.production.mts" = "icons/webpack.svg"
+"webpack.production.ts" = "icons/webpack.svg"
+"webpack.server.cjs" = "icons/webpack.svg"
+"webpack.server.cts" = "icons/webpack.svg"
+"webpack.server.js" = "icons/webpack.svg"
+"webpack.server.mjs" = "icons/webpack.svg"
+"webpack.server.mts" = "icons/webpack.svg"
+"webpack.server.ts" = "icons/webpack.svg"
+"webpack.test.cjs" = "icons/webpack.svg"
+"webpack.test.cts" = "icons/webpack.svg"
+"webpack.test.js" = "icons/webpack.svg"
+"webpack.test.mjs" = "icons/webpack.svg"
+"webpack.test.mts" = "icons/webpack.svg"
+"webpack.test.ts" = "icons/webpack.svg"
+"webpack.ts" = "icons/webpack.svg"
+"webpackfile.cjs" = "icons/webpack.svg"
+"webpackfile.cts" = "icons/webpack.svg"
+"webpackfile.js" = "icons/webpack.svg"
+"webpackfile.mjs" = "icons/webpack.svg"
+"webpackfile.mts" = "icons/webpack.svg"
+"webpackfile.ts" = "icons/webpack.svg"
+
+# windicss
+"windi.config.cjs" = "icons/windicss.svg"
+"windi.config.cts" = "icons/windicss.svg"
+"windi.config.js" = "icons/windicss.svg"
+"windi.config.json" = "icons/windicss.svg"
+"windi.config.ts" = "icons/windicss.svg"
+
+# xml
+".htaccess" = "icons/xml.svg"
+
+# yarn
+".yarn-integrity" = "icons/yarn.svg"
+".yarnclean" = "icons/yarn.svg"
+".yarnrc" = "icons/yarn.svg"
+".yarnrc.yaml" = "icons/yarn.svg"
+".yarnrc.yml" = "icons/yarn.svg"
+"yarn-error.log" = "icons/yarn.svg"
+"yarn.lock" = "icons/yarn.svg"
 
 [icon-theme.extension]
-"spec" = "icons/xml.svg"
+# 3d
+"ac" = "icons/3d.svg"
+"blend" = "icons/3d.svg"
+"fbx" = "icons/3d.svg"
+"mesh" = "icons/3d.svg"
+"mqo" = "icons/3d.svg"
+"obj" = "icons/3d.svg"
+"pmd" = "icons/3d.svg"
+"pmx" = "icons/3d.svg"
+"skp" = "icons/3d.svg"
+"stl" = "icons/3d.svg"
+"stp" = "icons/3d.svg"
+"vac" = "icons/3d.svg"
+"vdp" = "icons/3d.svg"
+"vox" = "icons/3d.svg"
 
+# abc
+"abc" = "icons/abc.svg"
+
+# actionscript
+"as" = "icons/actionscript.svg"
+
+# ada
+"ada" = "icons/ada.svg"
+"adb" = "icons/ada.svg"
+"ads" = "icons/ada.svg"
+"ali" = "icons/ada.svg"
+
+# advpl_include
+"ch" = "icons/advpl_include.svg"
+
+# advpl_prw
+"prw" = "icons/advpl_prw.svg"
+"prx" = "icons/advpl_prw.svg"
+
+# advpl_ptm
+"ptm" = "icons/advpl_ptm.svg"
+
+# advpl_tlpp
+"tlpp" = "icons/advpl_tlpp.svg"
+
+# android
+"apk" = "icons/android.svg"
+"dex" = "icons/android.svg"
+"smali" = "icons/android.svg"
+
+# angular
+# "module.js" = "icons/angular.svg" # ! Conflicting extension
+# "module.ts" = "icons/angular.svg" # ! Conflicting extension
+"ng-template" = "icons/angular.svg"
+
+# angular-component
+"component.js" = "icons/angular-component.svg"
+"component.ts" = "icons/angular-component.svg"
+
+# angular-directive
+"directive.js" = "icons/angular-directive.svg"
+"directive.ts" = "icons/angular-directive.svg"
+
+# angular-guard
+# "guard.js" = "icons/angular-guard.svg" # ! Conflicting extension
+# "guard.ts" = "icons/angular-guard.svg" # ! Conflicting extension
+
+# angular-pipe
+# "filter.js" = "icons/angular-pipe.svg" # ! Conflicting extension
+# "filter.ts" = "icons/angular-pipe.svg" # ! Conflicting extension
+# "pipe.js" = "icons/angular-pipe.svg" # ! Conflicting extension
+# "pipe.ts" = "icons/angular-pipe.svg" # ! Conflicting extension
+
+# angular-resolver
+# "resolver.js" = "icons/angular-resolver.svg" # ! Conflicting extension
+# "resolver.ts" = "icons/angular-resolver.svg" # ! Conflicting extension
+
+# angular-service
+# "service.js" = "icons/angular-service.svg" # ! Conflicting extension
+# "service.ts" = "icons/angular-service.svg" # ! Conflicting extension
+
+# antlr
+"g4" = "icons/antlr.svg"
+
+# apiblueprint
+"apib" = "icons/apiblueprint.svg"
+"apiblueprint" = "icons/apiblueprint.svg"
+
+# applescript
+"applescript" = "icons/applescript.svg"
+"ipa" = "icons/applescript.svg"
+
+# arduino
+"ino" = "icons/arduino.svg"
+
+# asciidoc
+"ad" = "icons/asciidoc.svg"
+"adoc" = "icons/asciidoc.svg"
+"asciidoc" = "icons/asciidoc.svg"
+
+# assembly
+"a51" = "icons/assembly.svg"
+"aea" = "icons/assembly.svg"
+"agc" = "icons/assembly.svg"
+"ags" = "icons/assembly.svg"
+"argus" = "icons/assembly.svg"
+"asm" = "icons/assembly.svg"
+"binsource" = "icons/assembly.svg"
+"inc" = "icons/assembly.svg"
+"mitigus" = "icons/assembly.svg"
+"ms" = "icons/assembly.svg"
+"nasm" = "icons/assembly.svg"
+"s" = "icons/assembly.svg"
+
+# astro
+"astro" = "icons/astro.svg"
+
+# audio
+"aiff" = "icons/audio.svg"
+"flac" = "icons/audio.svg"
+"m4a" = "icons/audio.svg"
+"mp3" = "icons/audio.svg"
+"wav" = "icons/audio.svg"
+"wma" = "icons/audio.svg"
+
+# autohotkey
+"ahk" = "icons/autohotkey.svg"
+
+# autoit
+"au3" = "icons/autoit.svg"
+
+# azure
+"azcli" = "icons/azure.svg"
+
+# azure-pipelines
+"azure-pipelines.yaml" = "icons/azure-pipelines.svg"
+"azure-pipelines.yml" = "icons/azure-pipelines.svg"
+
+# ballerina
+"bal" = "icons/ballerina.svg"
+"balx" = "icons/ballerina.svg"
+
+# bazel
+"bazel" = "icons/bazel.svg"
+"bzl" = "icons/bazel.svg"
+
+# bicep
+"bicep" = "icons/bicep.svg"
+
+# blink
+"blink" = "icons/blink.svg"
+
+# brainfuck
+"b" = "icons/brainfuck.svg"
+"bf" = "icons/brainfuck.svg"
+
+# bucklescript
+"cmj" = "icons/bucklescript.svg"
+
+# c
 "c" = "icons/c.svg"
-"cpp" = "icons/cpp.svg"
-"c++" = "icons/cpp.svg"
-"cs" = "icons/csharp.svg"
+"i" = "icons/c.svg"
+"mi" = "icons/c.svg"
+
+# cabal
+"cabal" = "icons/cabal.svg"
+
+# cadence
+"cdc" = "icons/cadence.svg"
+
+# cake
+"cake" = "icons/cake.svg"
+
+# certificate
+"cer" = "icons/certificate.svg"
+"cert" = "icons/certificate.svg"
+"crt" = "icons/certificate.svg"
+
+# chess
+"fen" = "icons/chess.svg"
+"pgn" = "icons/chess.svg"
+
+# clojure
+"clj" = "icons/clojure.svg"
+"cljc" = "icons/clojure.svg"
+"cljs" = "icons/clojure.svg"
+
+# cmake
 "cmake" = "icons/cmake.svg"
 
-"h" = "icons/h.svg"
-"hpp" = "icons/hpp.svg"
-"h++" = "icons/hpp.svg"
-"html" = "icons/html.svg"
+# coala
+"coafile" = "icons/coala.svg"
+"coarc" = "icons/coala.svg"
 
+# cobol
+"cbl" = "icons/cobol.svg"
+"cob" = "icons/cobol.svg"
+
+# coconut
+"coco" = "icons/coconut.svg"
+
+# coffee
+"coffee" = "icons/coffee.svg"
+"cson" = "icons/coffee.svg"
+"iced" = "icons/coffee.svg"
+
+# coldfusion
+"cfc" = "icons/coldfusion.svg"
+"cfm" = "icons/coldfusion.svg"
+"cfml" = "icons/coldfusion.svg"
+"lucee" = "icons/coldfusion.svg"
+
+# command
+"command" = "icons/command.svg"
+
+# console
+"awk" = "icons/console.svg"
+"bash" = "icons/console.svg"
+"bat" = "icons/console.svg"
+"cmd" = "icons/console.svg"
+"csh" = "icons/console.svg"
+"exp" = "icons/console.svg"
+"fish" = "icons/console.svg"
+"ksh" = "icons/console.svg"
+"nu" = "icons/console.svg"
+"sh" = "icons/console.svg"
+"tcsh" = "icons/console.svg"
+"zsh" = "icons/console.svg"
+
+# cpp
+"c++" = "icons/cpp.svg"
+"cc" = "icons/cpp.svg"
+"cp" = "icons/cpp.svg"
+"cpp" = "icons/cpp.svg"
+"cxx" = "icons/cpp.svg"
+"ii" = "icons/cpp.svg"
+"mii" = "icons/cpp.svg"
+"mm" = "icons/cpp.svg"
+
+# crystal
+"cr" = "icons/crystal.svg"
+"ecr" = "icons/crystal.svg"
+
+# csharp
+"cs" = "icons/csharp.svg"
+"csx" = "icons/csharp.svg"
+
+# css
+"css" = "icons/css.svg"
+
+# css-map
+"css.map" = "icons/css-map.svg"
+
+# cucumber
+"feature" = "icons/cucumber.svg"
+"features" = "icons/cucumber.svg"
+
+# cuda
+"cu" = "icons/cuda.svg"
+"cuh" = "icons/cuda.svg"
+
+# d
+"d" = "icons/d.svg"
+
+# dart
+"dart" = "icons/dart.svg"
+
+# dart_generated
+"freezed.dart" = "icons/dart_generated.svg"
+"g.dart" = "icons/dart_generated.svg"
+
+# database
+"accdb" = "icons/database.svg"
+"db" = "icons/database.svg"
+"db3" = "icons/database.svg"
+"mdb" = "icons/database.svg"
+"pdb" = "icons/database.svg"
+"pgsql" = "icons/database.svg"
+"pkb" = "icons/database.svg"
+"pks" = "icons/database.svg"
+"postgres" = "icons/database.svg"
+"psql" = "icons/database.svg"
+"sql" = "icons/database.svg"
+"sqlite" = "icons/database.svg"
+"sqlite3" = "icons/database.svg"
+
+# denizenscript
+"dsc" = "icons/denizenscript.svg"
+
+# dhall
+"dhall" = "icons/dhall.svg"
+"dhallb" = "icons/dhall.svg"
+
+# dinophp
+"bubble" = "icons/dinophp.svg"
+"html.bubble" = "icons/dinophp.svg"
+"php.bubble" = "icons/dinophp.svg"
+
+# disc
+"iso" = "icons/disc.svg"
+
+# django
+"djt" = "icons/django.svg"
+
+# docker
+"docker-compose.yaml" = "icons/docker.svg"
+"docker-compose.yml" = "icons/docker.svg"
+"dockerfile" = "icons/docker.svg"
+"dockerignore" = "icons/docker.svg"
+
+# document
+"txt" = "icons/document.svg"
+
+# dotjs
+"def" = "icons/dotjs.svg"
+"dot" = "icons/dotjs.svg"
+"jst" = "icons/dotjs.svg"
+
+# drawio
+"dio" = "icons/drawio.svg"
+"drawio" = "icons/drawio.svg"
+
+# drone
+"drone.yml" = "icons/drone.svg"
+
+# edge
+"edge" = "icons/edge.svg"
+
+# ejs
+"ejs" = "icons/ejs.svg"
+
+# elixir
+"eex" = "icons/elixir.svg"
+"ex" = "icons/elixir.svg"
+"exs" = "icons/elixir.svg"
+"heex" = "icons/elixir.svg"
+"leex" = "icons/elixir.svg"
+
+# elm
+"elm" = "icons/elm.svg"
+
+# email
+"ics" = "icons/email.svg"
+
+# erlang
+"erl" = "icons/erlang.svg"
+
+# exe
+"exe" = "icons/exe.svg"
+"msi" = "icons/exe.svg"
+
+# figma
+"fig" = "icons/figma.svg"
+
+# flash
+"swf" = "icons/flash.svg"
+
+# font
+"bmap" = "icons/font.svg"
+"eot" = "icons/font.svg"
+"fnt" = "icons/font.svg"
+"font" = "icons/font.svg"
+"fonts" = "icons/font.svg"
+"mrf" = "icons/font.svg"
+"ntf" = "icons/font.svg"
+"odttf" = "icons/font.svg"
+"otf" = "icons/font.svg"
+"sui" = "icons/font.svg"
+"suit" = "icons/font.svg"
+"ttc" = "icons/font.svg"
+"ttf" = "icons/font.svg"
+"woff" = "icons/font.svg"
+"woff2" = "icons/font.svg"
+
+# forth
+"4th" = "icons/forth.svg"
+"frt" = "icons/forth.svg"
+"fth" = "icons/forth.svg"
+
+# fortran
+"f" = "icons/fortran.svg"
+"f03" = "icons/fortran.svg"
+"f08" = "icons/fortran.svg"
+"f77" = "icons/fortran.svg"
+"f90" = "icons/fortran.svg"
+"f95" = "icons/fortran.svg"
+
+# foxpro
+"fxp" = "icons/foxpro.svg"
+"prg" = "icons/foxpro.svg"
+
+# fsharp
+"fs" = "icons/fsharp.svg"
+"fsi" = "icons/fsharp.svg"
+"fsproj" = "icons/fsharp.svg"
+"fsx" = "icons/fsharp.svg"
+
+# gemini
+"gemini" = "icons/gemini.svg"
+"gmi" = "icons/gemini.svg"
+
+# git
+"patch" = "icons/git.svg"
+
+# gitlab
+"gitlab-ci.yml" = "icons/gitlab.svg"
+
+# gleam
+"gleam" = "icons/gleam.svg"
+
+# go
 "go" = "icons/go.svg"
 
-"log" = "icons/log.svg"
-"lua" = "icons/lua.svg"
+# godot
+"gd" = "icons/godot.svg"
+
+# godot-assets
+"godot" = "icons/godot-assets.svg"
+"tres" = "icons/godot-assets.svg"
+"tscn" = "icons/godot-assets.svg"
+
+# gradle
+"gradle" = "icons/gradle.svg"
+
+# grain
+"gr" = "icons/grain.svg"
+
+# graphcool
+"graphcool" = "icons/graphcool.svg"
+
+# graphql
+"gql" = "icons/graphql.svg"
+"graphql" = "icons/graphql.svg"
+
+# groovy
+"groovy" = "icons/groovy.svg"
+
+# h
+"h" = "icons/h.svg"
+
+# haml
+"haml" = "icons/haml.svg"
+
+# handlebars
+"hbs" = "icons/handlebars.svg"
+"mustache" = "icons/handlebars.svg"
+
+# haskell
+"hs" = "icons/haskell.svg"
+
+# haxe
+"hx" = "icons/haxe.svg"
+
+# hcl
+"hcl" = "icons/hcl.svg"
+
+# hex
+"bin" = "icons/hex.svg"
+"dat" = "icons/hex.svg"
+"hex" = "icons/hex.svg"
+
+# horusec
+"horusec-config.json" = "icons/horusec.svg"
+
+# hpp
+"h++" = "icons/hpp.svg"
+"hh" = "icons/hpp.svg"
+"hp" = "icons/hpp.svg"
+"hpp" = "icons/hpp.svg"
+"hxx" = "icons/hpp.svg"
+"inl" = "icons/hpp.svg"
+"tcc" = "icons/hpp.svg"
+
+# html
+"asp" = "icons/html.svg"
+"htm" = "icons/html.svg"
+"html_vm" = "icons/html.svg"
+"xhtml" = "icons/html.svg"
+
+# http
+"http" = "icons/http.svg"
+"rest" = "icons/http.svg"
+
+# i18n
+"lang" = "icons/i18n.svg"
+"mo" = "icons/i18n.svg"
+"po" = "icons/i18n.svg"
+"pot" = "icons/i18n.svg"
+
+# idris
+"ibc" = "icons/idris.svg"
+"idr" = "icons/idris.svg"
+
+# image
+"afphoto" = "icons/image.svg"
+"ami" = "icons/image.svg"
+"apx" = "icons/image.svg"
+"ase" = "icons/image.svg"
+"aseprite" = "icons/image.svg"
+"avif" = "icons/image.svg"
+"bmp" = "icons/image.svg"
+"bpg" = "icons/image.svg"
+"brk" = "icons/image.svg"
+"clip" = "icons/image.svg"
+"cpt" = "icons/image.svg"
+"cur" = "icons/image.svg"
+"dds" = "icons/image.svg"
+"dng" = "icons/image.svg"
+"eps" = "icons/image.svg"
+"exr" = "icons/image.svg"
+"fpx" = "icons/image.svg"
+"gbr" = "icons/image.svg"
+"gif" = "icons/image.svg"
+"heic" = "icons/image.svg"
+"heif" = "icons/image.svg"
+"icns" = "icons/image.svg"
+"ico" = "icons/image.svg"
+"img" = "icons/image.svg"
+"jb2" = "icons/image.svg"
+"jbig2" = "icons/image.svg"
+"jfif" = "icons/image.svg"
+"jng" = "icons/image.svg"
+"jpeg" = "icons/image.svg"
+"jpg" = "icons/image.svg"
+"jxr" = "icons/image.svg"
+"kra" = "icons/image.svg"
+"mdp" = "icons/image.svg"
+"ora" = "icons/image.svg"
+"pbm" = "icons/image.svg"
+"pdn" = "icons/image.svg"
+"pgf" = "icons/image.svg"
+"pgm" = "icons/image.svg"
+"pic" = "icons/image.svg"
+"png" = "icons/image.svg"
+"pnm" = "icons/image.svg"
+"ppm" = "icons/image.svg"
+"psb" = "icons/image.svg"
+"psd" = "icons/image.svg"
+"raw" = "icons/image.svg"
+"reb" = "icons/image.svg"
+"sai" = "icons/image.svg"
+"tga" = "icons/image.svg"
+"tif" = "icons/image.svg"
+"tiff" = "icons/image.svg"
+"webp" = "icons/image.svg"
+"xcf" = "icons/image.svg"
+
+# imba
+"imba" = "icons/imba.svg"
+
+# jar
+"jar" = "icons/jar.svg"
+
+# java
+"java" = "icons/java.svg"
+"jsp" = "icons/java.svg"
+
+# javaclass
+"class" = "icons/javaclass.svg"
+
+# javascript
+"esx" = "icons/javascript.svg"
+"mjs" = "icons/javascript.svg"
+
+# javascript-map
+"cjs.map" = "icons/javascript-map.svg"
+"js.map" = "icons/javascript-map.svg"
+"mjs.map" = "icons/javascript-map.svg"
+
+# jenkins
+"jenkins" = "icons/jenkins.svg"
+"jenkinsfile" = "icons/jenkins.svg"
+
+# jinja
+"j2" = "icons/jinja.svg"
+"jinja" = "icons/jinja.svg"
+"jinja-html" = "icons/jinja.svg"
+"jinja2" = "icons/jinja.svg"
+
+# jsconfig
+"jsconfig.json" = "icons/jsconfig.svg"
+
+# json
+"json" = "icons/json.svg"
+"json5" = "icons/json.svg"
+"jsonc" = "icons/json.svg"
+"jsonl" = "icons/json.svg"
+"ndjson" = "icons/json.svg"
+"tsbuildinfo" = "icons/json.svg"
+
+# julia
+"jl" = "icons/julia.svg"
+
+# jupyter
+"ipynb" = "icons/jupyter.svg"
+
+# key
+"asc" = "icons/key.svg"
+"gpg" = "icons/key.svg"
+"key" = "icons/key.svg"
+"passwd" = "icons/key.svg"
+"pem" = "icons/key.svg"
+"pub" = "icons/key.svg"
+
+# kivy
+"kv" = "icons/kivy.svg"
+
+# kl
+"kl" = "icons/kl.svg"
+
+# kotlin
+"kt" = "icons/kotlin.svg"
+"kts" = "icons/kotlin.svg"
+
+# kusto
+"kql" = "icons/kusto.svg"
+
+# laravel
+"blade.php" = "icons/laravel.svg"
+"inky.php" = "icons/laravel.svg"
+
+# less
 "less" = "icons/less.svg"
 
-"js" = "icons/javascript.svg"
-"jsx" = "icons/react.svg"
-"json" = "icons/json.svg"
+# lib
+"bib" = "icons/lib.svg"
+"lib" = "icons/lib.svg"
 
-"key" = "icons/key.svg"
+# lilypond
+"ly" = "icons/lilypond.svg"
 
-"doc" = "icons/word.svg"
-"docx" = "icons/word.svg"
+# liquid
+"liquid" = "icons/liquid.svg"
 
+# lisp
+"cl" = "icons/lisp.svg"
+"fast" = "icons/lisp.svg"
+"lisp" = "icons/lisp.svg"
+"lsp" = "icons/lisp.svg"
+
+# livescript
+"ls" = "icons/livescript.svg"
+
+# lock
+"lock" = "icons/lock.svg"
+
+# log
+"log" = "icons/log.svg"
+
+# lolcode
+"lol" = "icons/lolcode.svg"
+
+# lua
+"lua" = "icons/lua.svg"
+
+# makefile
+"mk" = "icons/makefile.svg"
+
+# markdown
+"markdown" = "icons/markdown.svg"
 "md" = "icons/markdown.svg"
+"rst" = "icons/markdown.svg"
 
-"gitattributes" = "icons/git.svg"
-"gitignore" = "icons/git.svg"
+# markojs
+"marko" = "icons/markojs.svg"
 
-"ico" = "icons/image.svg"
+# mathematica
+"nb" = "icons/mathematica.svg"
 
-"rb" = "icons/ruby.svg"
-"rs" = "icons/rust.svg"
+# mdsvex
+"svx" = "icons/mdsvex.svg"
 
-"svg" = "icons/svg.svg"
-"sass" = "icons/sass.svg"
-"scss" = "icons/sass.svg"
-"sh" = "icons/shell.svg"
-"svelte" = "icons/svelte.svg"
-"scm" = "icons/scheme.svg"
+# mdx
+"mdx" = "icons/mdx.svg"
 
-"wxs" = "icons/xml.svg"
+# merlin
+"merlin" = "icons/merlin.svg"
 
-"ps1" = "icons/powershell.svg"
-"plist" = "icons/xml.svg"
-"png" = "icons/image.svg"
-"py" = "icons/python.svg"
+# meson
+"wrap" = "icons/meson.svg"
+
+# minecraft
+"mca" = "icons/minecraft.svg"
+"mcaddon" = "icons/minecraft.svg"
+"mcfunction" = "icons/minecraft.svg"
+"mcgame" = "icons/minecraft.svg"
+"mclevel" = "icons/minecraft.svg"
+"mcmeta" = "icons/minecraft.svg"
+"mcpack" = "icons/minecraft.svg"
+"mcr" = "icons/minecraft.svg"
+"mcstructure" = "icons/minecraft.svg"
+"mcworld" = "icons/minecraft.svg"
+"mine" = "icons/minecraft.svg"
+"mus" = "icons/minecraft.svg"
+
+# mint
+"mint" = "icons/mint.svg"
+
+# mjml
+"mjml" = "icons/mjml.svg"
+
+# moonscript
+"moon" = "icons/moonscript.svg"
+
+# mxml
+"mxml" = "icons/mxml.svg"
+
+# ndst
+"ndst.json" = "icons/ndst.svg"
+"ndst.yaml" = "icons/ndst.svg"
+"ndst.yml" = "icons/ndst.svg"
+
+# nest-controller
+"controller.js" = "icons/nest-controller.svg"
+"controller.ts" = "icons/nest-controller.svg"
+
+# nest-decorator
+"decorator.js" = "icons/nest-decorator.svg"
+"decorator.ts" = "icons/nest-decorator.svg"
+
+# nest-filter
+# "filter.js" = "icons/nest-filter.svg" # ! Conflicting extension
+# "filter.ts" = "icons/nest-filter.svg" # ! Conflicting extension
+
+# nest-gateway
+"gateway.js" = "icons/nest-gateway.svg"
+"gateway.ts" = "icons/nest-gateway.svg"
+
+# nest-guard
+# "guard.js" = "icons/nest-guard.svg" # ! Conflicting extension
+# "guard.ts" = "icons/nest-guard.svg" # ! Conflicting extension
+
+# nest-middleware
+"middleware.js" = "icons/nest-middleware.svg"
+"middleware.ts" = "icons/nest-middleware.svg"
+
+# nest-module
+# "module.js" = "icons/nest-module.svg" # ! Conflicting extension
+# "module.ts" = "icons/nest-module.svg" # ! Conflicting extension
+
+# nest-pipe
+# "pipe.js" = "icons/nest-pipe.svg" # ! Conflicting extension
+# "pipe.ts" = "icons/nest-pipe.svg" # ! Conflicting extension
+
+# nest-resolver
+# "resolver.js" = "icons/nest-resolver.svg" # ! Conflicting extension
+# "resolver.ts" = "icons/nest-resolver.svg" # ! Conflicting extension
+
+# nest-service
+# "service.js" = "icons/nest-service.svg" # ! Conflicting extension
+# "service.ts" = "icons/nest-service.svg" # ! Conflicting extension
+
+# nginx
+"nginx" = "icons/nginx.svg"
+"nginxconfig" = "icons/nginx.svg"
+
+# ngrx-actions
+# "actions.ts" = "icons/ngrx-actions.svg" # ! Conflicting extension
+
+# ngrx-effects
+"effects.ts" = "icons/ngrx-effects.svg"
+
+# ngrx-reducer
+# "reducer.ts" = "icons/ngrx-reducer.svg" # ! Conflicting extension
+"rootReducer.ts" = "icons/ngrx-reducer.svg"
+
+# ngrx-selectors
+# "selectors.ts" = "icons/ngrx-selectors.svg" # ! Conflicting extension
+
+# ngrx-state
+"state.ts" = "icons/ngrx-state.svg"
+
+# nim
+"nim" = "icons/nim.svg"
+"nimble" = "icons/nim.svg"
+
+# nix
+"nix" = "icons/nix.svg"
+
+# nuget
+"nupkg" = "icons/nuget.svg"
+
+# nunjucks
+"njk" = "icons/nunjucks.svg"
+"nunjucks" = "icons/nunjucks.svg"
+
+# ocaml
+"cmx" = "icons/ocaml.svg"
+"ml" = "icons/ocaml.svg"
+"mli" = "icons/ocaml.svg"
+
+# odin
+"odin" = "icons/odin.svg"
+
+# opa
+"rego" = "icons/opa.svg"
+
+# opam
+"opam" = "icons/opam.svg"
+
+# otne
+"otne" = "icons/otne.svg"
+
+# pascal
+"pas" = "icons/pascal.svg"
+
+# pawn
+"amx" = "icons/pawn.svg"
+"pwn" = "icons/pawn.svg"
+
+# pdf
+"pdf" = "icons/pdf.svg"
+
+# perl
+"pm" = "icons/perl.svg"
+"raku" = "icons/perl.svg"
+
+# pinejs
+"pine" = "icons/pinejs.svg"
+
+# pipeline
+"pipeline" = "icons/pipeline.svg"
+
+# postcss
+"pcss" = "icons/postcss.svg"
+"sss" = "icons/postcss.svg"
+
+# powerpoint
+"odp" = "icons/powerpoint.svg"
+"potm" = "icons/powerpoint.svg"
+"potx" = "icons/powerpoint.svg"
+"ppa" = "icons/powerpoint.svg"
+"ppam" = "icons/powerpoint.svg"
+"pps" = "icons/powerpoint.svg"
+"ppsm" = "icons/powerpoint.svg"
+"ppsx" = "icons/powerpoint.svg"
+"ppt" = "icons/powerpoint.svg"
+"pptm" = "icons/powerpoint.svg"
 "pptx" = "icons/powerpoint.svg"
+
+# powershell
+"ps1" = "icons/powershell.svg"
+"ps1xml" = "icons/powershell.svg"
+"psc1" = "icons/powershell.svg"
+"psd1" = "icons/powershell.svg"
+"psm1" = "icons/powershell.svg"
+"pssc" = "icons/powershell.svg"
+
+# prisma
+"prisma" = "icons/prisma.svg"
+
+# processing
+"pde" = "icons/processing.svg"
+
+# prolog
+"p" = "icons/prolog.svg"
+"pl" = "icons/prolog.svg"
+"pro" = "icons/prolog.svg"
+
+# proto
+"proto" = "icons/proto.svg"
+
+# pug
+"jade" = "icons/pug.svg"
 "pug" = "icons/pug.svg"
 
-"toml" = "icons/document.svg"
-"tf" = "icons/terraform.svg"
-"ts" = "icons/typescript.svg"
+# puppet
+"pp" = "icons/puppet.svg"
+
+# purescript
+"pure" = "icons/purescript.svg"
+"purs" = "icons/purescript.svg"
+
+# python
+"py" = "icons/python.svg"
+
+# python-misc
+"pyc" = "icons/python-misc.svg"
+"whl" = "icons/python-misc.svg"
+
+# qsharp
+"qs" = "icons/qsharp.svg"
+
+# r
+"r" = "icons/r.svg"
+"rmd" = "icons/r.svg"
+
+# racket
+"rkt" = "icons/racket.svg"
+
+# raml
+"raml" = "icons/raml.svg"
+
+# razor
+"cshtml" = "icons/razor.svg"
+"vbhtml" = "icons/razor.svg"
+
+# react
+"jsx" = "icons/react.svg"
+
+# react_ts
 "tsx" = "icons/react_ts.svg"
 
-"xml" = "icons/xml.svg"
+# reason
+"re" = "icons/reason.svg"
+"rei" = "icons/reason.svg"
+
+# red
+"red" = "icons/red.svg"
+
+# redux-action
+"action.js" = "icons/redux-action.svg"
+"action.ts" = "icons/redux-action.svg"
+"actions.js" = "icons/redux-action.svg"
+# "actions.ts" = "icons/redux-action.svg" # ! Conflicting extension
+
+# redux-reducer
+"reducer.js" = "icons/redux-reducer.svg"
+# "reducer.ts" = "icons/redux-reducer.svg" # ! Conflicting extension
+"reducers.js" = "icons/redux-reducer.svg"
+"reducers.ts" = "icons/redux-reducer.svg"
+
+# redux-selector
+"selector.js" = "icons/redux-selector.svg"
+"selector.ts" = "icons/redux-selector.svg"
+"selectors.js" = "icons/redux-selector.svg"
+# "selectors.ts" = "icons/redux-selector.svg" # ! Conflicting extension
+
+# redux-store
+# "store.js" = "icons/redux-store.svg" # ! Conflicting extension
+# "store.ts" = "icons/redux-store.svg" # ! Conflicting extension
+
+# rescript
+"res" = "icons/rescript.svg"
+
+# rescript-interface
+"resi" = "icons/rescript-interface.svg"
+
+# restql
+"restql" = "icons/restql.svg"
+"rql" = "icons/restql.svg"
+
+# riot
+"riot" = "icons/riot.svg"
+"tag" = "icons/riot.svg"
+
+# robot
+"robot" = "icons/robot.svg"
+
+# routing
+"routes.js" = "icons/routing.svg"
+"routes.jsx" = "icons/routing.svg"
+"routes.ts" = "icons/routing.svg"
+"routes.tsx" = "icons/routing.svg"
+"routing.js" = "icons/routing.svg"
+"routing.jsx" = "icons/routing.svg"
+"routing.ts" = "icons/routing.svg"
+"routing.tsx" = "icons/routing.svg"
+
+# ruby
+"erb" = "icons/ruby.svg"
+"rb" = "icons/ruby.svg"
+
+# rust
+"ron" = "icons/rust.svg"
+"rs" = "icons/rust.svg"
+
+# san
+"san" = "icons/san.svg"
+
+# sas
+"ast" = "icons/sas.svg"
+"astore" = "icons/sas.svg"
+"sas" = "icons/sas.svg"
+"sas7bdat" = "icons/sas.svg"
+"sashdat" = "icons/sas.svg"
+"sast" = "icons/sas.svg"
+
+# sass
+"sass" = "icons/sass.svg"
+"scss" = "icons/sass.svg"
+
+# sbt
+"sbt" = "icons/sbt.svg"
+
+# scala
+"sc" = "icons/scala.svg"
+"scala" = "icons/scala.svg"
+
+# scheme
+"scm" = "icons/scheme.svg"
+"ss" = "icons/scheme.svg"
+
+# search
+"code-search" = "icons/search.svg"
+
+# settings
+"cfg" = "icons/settings.svg"
+"conf" = "icons/settings.svg"
+"config" = "icons/settings.svg"
+"dlc" = "icons/settings.svg"
+"dll" = "icons/settings.svg"
+"ini" = "icons/settings.svg"
+"option" = "icons/settings.svg"
+"prefs" = "icons/settings.svg"
+"prop" = "icons/settings.svg"
+"properties" = "icons/settings.svg"
+"props" = "icons/settings.svg"
+"settings" = "icons/settings.svg"
+"sln.dotsettings" = "icons/settings.svg"
+"sln.dotsettings.user" = "icons/settings.svg"
+"toml" = "icons/settings.svg"
+
+# shader
+"comp" = "icons/shader.svg"
+"comp.glsl" = "icons/shader.svg"
+"comp.hlsl" = "icons/shader.svg"
+"compute.glsl" = "icons/shader.svg"
+"compute.hlsl" = "icons/shader.svg"
+"computeshader" = "icons/shader.svg"
+"frag" = "icons/shader.svg"
+"frag.glsl" = "icons/shader.svg"
+"fragment.glsl" = "icons/shader.svg"
+"fragmentshader" = "icons/shader.svg"
+"fs.glsl" = "icons/shader.svg"
+"geom" = "icons/shader.svg"
+"geom.glsl" = "icons/shader.svg"
+"geom.hlsl" = "icons/shader.svg"
+"geometry.glsl" = "icons/shader.svg"
+"geometry.hlsl" = "icons/shader.svg"
+"geometryshader" = "icons/shader.svg"
+"glsl" = "icons/shader.svg"
+"gs.glsl" = "icons/shader.svg"
+"hlsl" = "icons/shader.svg"
+"pixel.hlsl" = "icons/shader.svg"
+"px.hlsl" = "icons/shader.svg"
+"shader" = "icons/shader.svg"
+"tesc" = "icons/shader.svg"
+"tesc.glsl" = "icons/shader.svg"
+"tese" = "icons/shader.svg"
+"tese.glsl" = "icons/shader.svg"
+"tess.hlsl" = "icons/shader.svg"
+"tessellation.hlsl" = "icons/shader.svg"
+"ts.glsl" = "icons/shader.svg"
+"vert" = "icons/shader.svg"
+"vert.glsl" = "icons/shader.svg"
+"vertex.glsl" = "icons/shader.svg"
+"vertexshader" = "icons/shader.svg"
+"vs.glsl" = "icons/shader.svg"
+"wgsl" = "icons/shader.svg"
+
+# shaderlab
+"unity" = "icons/shaderlab.svg"
+
+# siyuan
+"sy" = "icons/siyuan.svg"
+
+# sketch
+"sketch" = "icons/sketch.svg"
+
+# slim
+"slim" = "icons/slim.svg"
+
+# smarty
+"tpl" = "icons/smarty.svg"
+
+# sml
+"cm" = "icons/sml.svg"
+"fun" = "icons/sml.svg"
+"grm" = "icons/sml.svg"
+"lex" = "icons/sml.svg"
+"mlb" = "icons/sml.svg"
+"mlton" = "icons/sml.svg"
+"sig" = "icons/sml.svg"
+"sml" = "icons/sml.svg"
+"use" = "icons/sml.svg"
+
+# solidity
+"sol" = "icons/solidity.svg"
+
+# steadybit
+"steadybit.yaml" = "icons/steadybit.svg"
+"steadybit.yml" = "icons/steadybit.svg"
+
+# storybook
+"stories.js" = "icons/storybook.svg"
+"stories.jsx" = "icons/storybook.svg"
+"stories.mdx" = "icons/storybook.svg"
+"stories.svelte" = "icons/storybook.svg"
+"stories.ts" = "icons/storybook.svg"
+"stories.tsx" = "icons/storybook.svg"
+"story.js" = "icons/storybook.svg"
+"story.jsx" = "icons/storybook.svg"
+"story.mdx" = "icons/storybook.svg"
+"story.ts" = "icons/storybook.svg"
+"story.tsx" = "icons/storybook.svg"
+
+# stylable
+"st.css" = "icons/stylable.svg"
+
+# stylus
+"styl" = "icons/stylus.svg"
+
+# sublime
+"sublime-project" = "icons/sublime.svg"
+"sublime-workspace" = "icons/sublime.svg"
+
+# svelte
+"svelte" = "icons/svelte.svg"
+
+# svg
+"svg" = "icons/svg.svg"
+
+# swc
+"swc" = "icons/swc.svg"
+
+# swift
+"swift" = "icons/swift.svg"
+
+# table
+"csv" = "icons/table.svg"
+"ods" = "icons/table.svg"
+"psv" = "icons/table.svg"
+"tsv" = "icons/table.svg"
+"xls" = "icons/table.svg"
+"xlsm" = "icons/table.svg"
+"xlsx" = "icons/table.svg"
+
+# tauri
+"tauri" = "icons/tauri.svg"
+
+# tcl
+"tcl" = "icons/tcl.svg"
+
+# teal
+"tl" = "icons/teal.svg"
+
+# template
+"template" = "icons/template.svg"
+
+# terraform
+"tf" = "icons/terraform.svg"
+"tf.json" = "icons/terraform.svg"
+"tfstate" = "icons/terraform.svg"
+"tfvars" = "icons/terraform.svg"
+
+# test-js
+"cy.js" = "icons/test-js.svg"
+"e2e-spec.cjs" = "icons/test-js.svg"
+"e2e-spec.js" = "icons/test-js.svg"
+"e2e-spec.mjs" = "icons/test-js.svg"
+"js.snap" = "icons/test-js.svg"
+"spec.cjs" = "icons/test-js.svg"
+"spec.js" = "icons/test-js.svg"
+"spec.mjs" = "icons/test-js.svg"
+"test.cjs" = "icons/test-js.svg"
+"test.js" = "icons/test-js.svg"
+"test.mjs" = "icons/test-js.svg"
+
+# test-jsx
+"cy.jsx" = "icons/test-jsx.svg"
+"cy.tsx" = "icons/test-jsx.svg"
+"jsx.snap" = "icons/test-jsx.svg"
+"spec.jsx" = "icons/test-jsx.svg"
+"spec.tsx" = "icons/test-jsx.svg"
+"test.jsx" = "icons/test-jsx.svg"
+"test.tsx" = "icons/test-jsx.svg"
+"tsx.snap" = "icons/test-jsx.svg"
+
+# test-ts
+"cy.ts" = "icons/test-ts.svg"
+"e2e-spec.cts" = "icons/test-ts.svg"
+"e2e-spec.mts" = "icons/test-ts.svg"
+"e2e-spec.ts" = "icons/test-ts.svg"
+"spec.cts" = "icons/test-ts.svg"
+"spec.mts" = "icons/test-ts.svg"
+"spec.ts" = "icons/test-ts.svg"
+"test.cts" = "icons/test-ts.svg"
+"test.mts" = "icons/test-ts.svg"
+"test.ts" = "icons/test-ts.svg"
+"ts.snap" = "icons/test-ts.svg"
+
+# tex
+"dtx" = "icons/tex.svg"
+"ltx" = "icons/tex.svg"
+"sty" = "icons/tex.svg"
+"tex" = "icons/tex.svg"
+
+# tobi
+"tobi" = "icons/tobi.svg"
+
+# todo
+"todo" = "icons/todo.svg"
+
+# tree
+"tree" = "icons/tree.svg"
+
+# tsconfig
+"tsconfig.json" = "icons/tsconfig.svg"
+
+# tune
+"env" = "icons/tune.svg"
+
+# twig
+"twig" = "icons/twig.svg"
+
+# twine
+"tw" = "icons/twine.svg"
+"twee" = "icons/twine.svg"
+
+# typescript-def
+"d.cts" = "icons/typescript-def.svg"
+"d.mts" = "icons/typescript-def.svg"
+"d.ts" = "icons/typescript-def.svg"
+
+# uml
+"iuml" = "icons/uml.svg"
+"plantuml" = "icons/uml.svg"
+"pu" = "icons/uml.svg"
+"puml" = "icons/uml.svg"
+"wsd" = "icons/uml.svg"
+
+# url
+"url" = "icons/url.svg"
+
+# vagrant
+"vagrantfile" = "icons/vagrant.svg"
+
+# vala
+"vala" = "icons/vala.svg"
+
+# velocity
+"fhtml" = "icons/velocity.svg"
+"vm" = "icons/velocity.svg"
+"vtl" = "icons/velocity.svg"
+
+# verilog
+"sv" = "icons/verilog.svg"
+"svh" = "icons/verilog.svg"
+"vhd" = "icons/verilog.svg"
+
+# vfl
+"vfl" = "icons/vfl.svg"
+
+# video
+"avi" = "icons/video.svg"
+"flv" = "icons/video.svg"
+"gifv" = "icons/video.svg"
+"m2v" = "icons/video.svg"
+"m4v" = "icons/video.svg"
+"mkv" = "icons/video.svg"
+"mov" = "icons/video.svg"
+"mp2" = "icons/video.svg"
+"mp4" = "icons/video.svg"
+"mpe" = "icons/video.svg"
+"mpeg" = "icons/video.svg"
+"mpg" = "icons/video.svg"
+"mpv" = "icons/video.svg"
+"ogg" = "icons/video.svg"
+"ogv" = "icons/video.svg"
+"qt" = "icons/video.svg"
+"rm" = "icons/video.svg"
+"rmvb" = "icons/video.svg"
+"vob" = "icons/video.svg"
+"webm" = "icons/video.svg"
+"wmv" = "icons/video.svg"
+"yuv" = "icons/video.svg"
+
+# vim
+"exrc" = "icons/vim.svg"
+"gvimrc" = "icons/vim.svg"
+"vim" = "icons/vim.svg"
+"viminfo" = "icons/vim.svg"
+"vimrc" = "icons/vim.svg"
+
+# virtual
+"vbox" = "icons/virtual.svg"
+"vbox-prev" = "icons/virtual.svg"
+"vdi" = "icons/virtual.svg"
+
+# visualstudio
+"csproj" = "icons/visualstudio.svg"
+"ruleset" = "icons/visualstudio.svg"
+"sln" = "icons/visualstudio.svg"
+"suo" = "icons/visualstudio.svg"
+"vb" = "icons/visualstudio.svg"
+"vbs" = "icons/visualstudio.svg"
+"vcxitems" = "icons/visualstudio.svg"
+"vcxitems.filters" = "icons/visualstudio.svg"
+"vcxproj" = "icons/visualstudio.svg"
+"vcxproj.filters" = "icons/visualstudio.svg"
+
+# vlang
+"v" = "icons/vlang.svg"
+
+# vscode
+"code-workplace" = "icons/vscode.svg"
+"vscodeignore" = "icons/vscode.svg"
+"vsix" = "icons/vscode.svg"
+"vsixmanifest" = "icons/vscode.svg"
+
+# vue
+"vue" = "icons/vue.svg"
+
+# vuex-store
+# "store.js" = "icons/vuex-store.svg" # ! Conflicting extension
+# "store.ts" = "icons/vuex-store.svg" # ! Conflicting extension
+
+# wakatime
+".wakatime-project" = "icons/wakatime.svg"
+
+# webassembly
+"wasm" = "icons/webassembly.svg"
+"wat" = "icons/webassembly.svg"
+
+# wepy
+"wpy" = "icons/wepy.svg"
+
+# windicss
+"windi" = "icons/windicss.svg"
+
+# wolframlanguage
+"wl" = "icons/wolframlanguage.svg"
+"wls" = "icons/wolframlanguage.svg"
+
+# word
+"doc" = "icons/word.svg"
+"docx" = "icons/word.svg"
+"odt" = "icons/word.svg"
+"rtf" = "icons/word.svg"
+
+# xaml
 "xaml" = "icons/xaml.svg"
 
-"vue" = "icons/vue.png"
+# xml
+"dmn" = "icons/xml.svg"
+"dtd" = "icons/xml.svg"
+"iml" = "icons/xml.svg"
+"jrxml" = "icons/xml.svg"
+"manifest" = "icons/xml.svg"
+"plist" = "icons/xml.svg"
+"project" = "icons/xml.svg"
+"resx" = "icons/xml.svg"
+"tmLanguage" = "icons/xml.svg"
+"xml" = "icons/xml.svg"
+"xml.dist" = "icons/xml.svg"
+"xml.dist.sample" = "icons/xml.svg"
+"xquery" = "icons/xml.svg"
+"xsd" = "icons/xml.svg"
+"xsl" = "icons/xml.svg"
+"xslt" = "icons/xml.svg"
 
-"wasm" = "icons/webassembly.svg"
-
-"yml" = "icons/yaml.svg"
+# yaml
+"YAML-tmLanguage" = "icons/yaml.svg"
 "yaml" = "icons/yaml.svg"
+"yaml.dist" = "icons/yaml.svg"
+"yml" = "icons/yaml.svg"
+"yml.dist" = "icons/yaml.svg"
 
+# yang
+"yang" = "icons/yang.svg"
+
+# zig
 "zig" = "icons/zig.svg"
+
+# zip
+"7z" = "icons/zip.svg"
+"br" = "icons/zip.svg"
+"brotli" = "icons/zip.svg"
+"bz2" = "icons/zip.svg"
+"bzip2" = "icons/zip.svg"
+"gz" = "icons/zip.svg"
+"gzip" = "icons/zip.svg"
+"lz4" = "icons/zip.svg"
+"lzma" = "icons/zip.svg"
+"rar" = "icons/zip.svg"
+"tar" = "icons/zip.svg"
+"tgz" = "icons/zip.svg"
+"txz" = "icons/zip.svg"
+"tz" = "icons/zip.svg"
+"xz" = "icons/zip.svg"
 "zip" = "icons/zip.svg"
