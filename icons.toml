@@ -1,0 +1,143 @@
+name = "Material Icons"
+
+[icons]
+# A
+# B
+# C
+"c.svg" = { extension = ["c"] }
+"cmake.svg" = { extension = ["cmake"] }
+"console.svg" = { extension = ["sh", "bash", "zsh", "fish", "bat"] }
+"cpp.svg" = { extension = ["cpp", "c++", "cc", "C"] }
+"csharp.svg" = { extension = ["cs"] }
+"codeowners.svg" = { extension = ["CODEOWNERS", "OWNERS"] }
+"contributing.svg" = { extension = ["CONTRIBUTING"] }
+# D
+"docker.svg" = { extension = [
+    "dockerfile",
+    "dockerignore",
+], file = [
+    "dockerfile",
+    "docker-compose",
+] }
+"document.svg" = { extension = ["LICENSE", "LICENCE"] }
+# E
+# F
+"folder-docs.svg" = { extension = ["docs"] }
+"file.svg" = { ui = ["file"] }
+"folder-base-open.svg" = { ui = ["directory.opened"] }
+"folder-base.svg" = { ui = ["directory.closed"] }
+
+"folder-git.svg" = { directory = [".git"] }
+"folder-github.svg" = { directory = [".github"] }
+"folder-gitlab.svg" = { directory = [".gitlab"] }
+"folder-vscode.svg" = { directory = [".vscode"] }
+"folder-images.svg" = { directory = ["icons", "images"] }
+"folder-rust.svg" = { directory = [".cargo"] }
+# G
+"git.svg" = { file = [
+    ".gitignore",
+    ".gitattributes",
+    ".gitconfig",
+    ".gitmodules",
+], extension = [
+    "gitattributes",
+    "gitignore",
+    "gitconfig",
+    "gitmodules",
+] }
+"go.svg" = { extension = ["go"] }
+"go-mod.svg" = { file = ["go.mod", "go.sum", "go.work"] }
+# H
+"h.svg" = { extension = ["h"] }
+"hpp.svg" = { extension = ["hpp", "h++", "H", "hh"] }
+"html.svg" = { extension = ["html", "htm", "xhtml"] }
+# I
+"image.svg" = { extension = [
+    "ico",
+    "png",
+    "jpeg",
+    "jpg",
+    "webp",
+    "gif",
+    "bmp",
+    "jxl",
+    "heic",
+    "jfif",
+    "tga",
+    "tif",
+    "tiff",
+] }
+# J
+"javascript.svg" = { extension = ["js"] }
+"react.svg" = { extension = ["jsx"] }
+"json.svg" = { extension = ["json", "json5", "jsonc", "jsonl"] }
+# K
+"key.svg" = { extension = ["key"] }
+# L
+"less.svg" = { extension = ["less"] }
+"log.svg" = { extension = ["log"] }
+"lua.svg" = { extension = ["lua"] }
+# M
+"makefile.svg" = { file = ["Makefile", "GNUMakefile"] }
+"markdown.svg" = { extension = ["md", "MD", "mdx", "markdown"] }
+# N
+# O
+# P
+"pdf.svg" = { extension = ["pdf"] }
+"powerpoint.svg" = { extension = ["pptx", "ppt"] }
+"powershell.svg" = { extension = ["ps1"] }
+"pug.svg" = { extension = ["pug", "jade"] }
+"python.svg" = { extension = ["py"] }
+# Q
+# R
+"readme.svg" = { file = ["README"] }
+"react_ts.svg" = { extension = ["tsx"] }
+"ruby.svg" = { extension = ["rb"] }
+"rust.svg" = { extension = [
+    "rs",
+    "ron",
+], file = [
+    "Cargo.toml",
+    "Cargo.lock",
+    ".rustfmt.toml",
+    "rustfmt.toml",
+    "rust-toolchain",
+    "rust-toolchain.toml",
+] }
+# S
+"sass.svg" = { extension = ["sass", "scss"] }
+"scheme.svg" = { extension = ["scm"] }
+"settings.svg" = { ui = [
+    "settings",
+], extension = [
+    "ini",
+    "conf",
+    "settings",
+    "config",
+], file = [
+    "conf",
+    "config",
+] }
+"svelte.svg" = { extension = ["svelte"] }
+"svg.svg" = { extension = ["svg"] }
+# T
+"toml.svg" = { extension = ["toml"] }
+"terraform.svg" = { extension = ["tf"] }
+"typescript.svg" = { extension = ["ts"] }
+# U
+# W
+"webassembly.svg" = { extension = ["wasm"] }
+"word.svg" = { extension = ["doc", "docx"] }
+# V
+"vlang.svg" = { extension = ["v"] }
+"vscode.svg" = { extension = ["bsix"] }
+"vue.svg" = { extension = ["vue"] }
+# X
+"xaml.svg" = { extension = ["xaml"] }
+"xml.svg" = { extension = ["xml", "spec", "plist", "wxs", "xsl", "xslt"] }
+# Y
+"yaml.svg" = { extension = ["yml", "yaml"] }
+"yarn.svg" = { extension = ["yarn"] }
+# Z
+"zig.svg" = { extension = ["zig"] }
+"zip.svg" = { extension = ["zip"] }

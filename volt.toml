@@ -1,6 +1,6 @@
 name = "lapce-material-icon-theme"
 display-name = "Material Icon Theme"
 description = "Material icon theme for Lapce"
-version = "0.0.0"
+version = "v2022.12.0"
 author = "panekj"
 icon-themes = ["material.toml"]
